@@ -1,0 +1,2494 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<instance xmlns="http://www.exelearning.org/content/v0.3" reference="1" version="0.3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemalocation="http://www.exelearning.org/content/v0.3 content.xsd" class="exe.engine.package.Package">
+ <dictionary>
+  <string role="key" value="_title"></string>
+  <unicode value="Propiedades periodicas"></unicode>
+  <string role="key" value="idevices"></string>
+  <list></list>
+  <string role="key" value="_addPagination"></string>
+  <bool value="0"></bool>
+  <string role="key" value="_addSearchBox"></string>
+  <bool value="0"></bool>
+  <string role="key" value="_author"></string>
+  <unicode value="David Roibal"></unicode>
+  <string role="key" value="_backgroundImg"></string>
+  <unicode value=""></unicode>
+  <string role="key" value="_contextMode"></string>
+  <unicode value=""></unicode>
+  <string role="key" value="_contextPlace"></string>
+  <unicode value=""></unicode>
+  <string role="key" value="_description"></string>
+  <unicode value="Tema de propiedades periódicas de 2º de bachillerato"></unicode>
+  <string role="key" value="_docType"></string>
+  <unicode value="HTML5"></unicode>
+  <string role="key" value="_exportElp"></string>
+  <bool value="0"></bool>
+  <string role="key" value="_extraHeadContent"></string>
+  <unicode value=""></unicode>
+  <string role="key" value="_fieldValidationInfo"></string>
+  <dictionary>
+   <unicode role="key" value="all"></unicode>
+   <dictionary>
+    <unicode role="key" value="mandatory_fields"></unicode>
+    <list>
+     <unicode value="pp_title"></unicode>
+     <unicode value="pp_lang"></unicode>
+     <unicode value="pp_description"></unicode>
+     <unicode value="pp_author"></unicode>
+     <unicode value="pp_newlicense"></unicode>
+    </list>
+   </dictionary>
+   <unicode role="key" value="procomun"></unicode>
+   <dictionary>
+    <unicode role="key" value="mandatory_fields"></unicode>
+    <list>
+     <unicode value="pp_learningResourceType"></unicode>
+    </list>
+    <unicode role="key" value="values_from_list"></unicode>
+    <dictionary>
+     <unicode role="key" value="pp_learningResourceType"></unicode>
+     <list>
+      <unicode value="master class"></unicode>
+      <unicode value="closed exercise or problem"></unicode>
+      <unicode value="real project"></unicode>
+      <unicode value="didactic game"></unicode>
+      <unicode value="webquest"></unicode>
+      <unicode value="open problem"></unicode>
+      <unicode value="simulation"></unicode>
+      <unicode value="questionnaire"></unicode>
+      <unicode value="conceptual map"></unicode>
+     </list>
+    </dictionary>
+   </dictionary>
+  </dictionary>
+  <string role="key" value="_intendedEndUserRoleGroup"></string>
+  <bool value="0"></bool>
+  <string role="key" value="_intendedEndUserRoleTutor"></string>
+  <bool value="0"></bool>
+  <string role="key" value="_intendedEndUserRoleType"></string>
+  <unicode value=""></unicode>
+  <string role="key" value="_isChanged"></string>
+  <bool value="0"></bool>
+  <string role="key" value="_isTemplate"></string>
+  <bool value="0"></bool>
+  <string role="key" value="_lang"></string>
+  <unicode value="es"></unicode>
+  <string role="key" value="_learningResourceType"></string>
+  <unicode value=""></unicode>
+  <string role="key" value="_levelNames"></string>
+  <list>
+   <unicode value="Tema"></unicode>
+   <unicode value="Sección"></unicode>
+   <unicode value="Unidad"></unicode>
+  </list>
+  <string role="key" value="_name"></string>
+  <unicode value="Tarea_1"></unicode>
+  <string role="key" value="_nextIdeviceId"></string>
+  <int value="28"></int>
+  <string role="key" value="_nextNodeId"></string>
+  <int value="11"></int>
+  <string role="key" value="_nodeIdDict"></string>
+  <dictionary>
+   <unicode role="key" value="0"></unicode>
+   <instance class="exe.engine.node.Node" reference="2">
+    <dictionary>
+     <string role="key" value="_title"></string>
+     <unicode value="Química"></unicode>
+     <string role="key" value="idevices"></string>
+     <list></list>
+     <string role="key" value="_id"></string>
+     <unicode value="0"></unicode>
+     <string role="key" value="_package"></string>
+     <reference key="1"></reference>
+     <string role="key" value="anchor_fields"></string>
+     <list></list>
+     <string role="key" value="exe.engine.node.Node.persistenceVersion"></string>
+     <int value="2"></int>
+     <string role="key" value="exportType"></string>
+     <string value="singlepage"></string>
+     <string role="key" value="last_full_node_path"></string>
+     <string value="exe-node:Qu%C3%ADmica"></string>
+     <string role="key" value="parent"></string>
+     <none></none>
+     <string role="key" value="top_anchors_linked_from_fields"></string>
+     <list></list>
+     <string role="key" value="children"></string>
+     <list>
+      <instance class="exe.engine.node.Node" reference="7">
+       <dictionary>
+        <string role="key" value="_title"></string>
+        <unicode value="Propiedades periódicas de los elementos"></unicode>
+        <string role="key" value="idevices"></string>
+        <list></list>
+        <string role="key" value="_id"></string>
+        <unicode value="1"></unicode>
+        <string role="key" value="_package"></string>
+        <reference key="1"></reference>
+        <string role="key" value="anchor_fields"></string>
+        <list></list>
+        <string role="key" value="exe.engine.node.Node.persistenceVersion"></string>
+        <int value="2"></int>
+        <string role="key" value="exportType"></string>
+        <string value="singlepage"></string>
+        <string role="key" value="last_full_node_path"></string>
+        <string value="exe-node:Qu%C3%ADmica:Propiedades%20peri%C3%B3dicas%20de%20los%20elementos"></string>
+        <string role="key" value="parent"></string>
+        <reference key="2"></reference>
+        <string role="key" value="top_anchors_linked_from_fields"></string>
+        <list></list>
+        <string role="key" value="children"></string>
+        <list>
+         <instance class="exe.engine.node.Node" reference="5">
+          <dictionary>
+           <string role="key" value="_title"></string>
+           <unicode value="La tabla periódica"></unicode>
+           <string role="key" value="idevices"></string>
+           <list>
+            <instance class="exe.engine.freetextidevice.FreeTextIdevice" reference="3">
+             <dictionary>
+              <string role="key" value="_title"></string>
+              <unicode value="Free Text"></unicode>
+              <string role="key" value="_author"></string>
+              <unicode value="University of Auckland"></unicode>
+              <string role="key" value="_purpose"></string>
+              <unicode value="The majority of a learning resource will be 
+establishing context, delivering instructions and providing general information.
+This provides the framework within which the learning activities are built and 
+delivered."></unicode>
+              <string role="key" value="_tip"></string>
+              <string value=""></string>
+              <string role="key" value="childs"></string>
+              <list></list>
+              <string role="key" value="content"></string>
+              <instance class="exe.engine.field.TextAreaField" reference="4">
+               <dictionary>
+                <string role="key" value="_id"></string>
+                <int value="85"></int>
+                <string role="key" value="_idevice"></string>
+                <reference key="3"></reference>
+                <string role="key" value="_instruc"></string>
+                <unicode value="Use this field to enter text. This 
+iDevice has no emphasis applied although limited formatting can be applied to 
+text through the text editing buttons associated with the field."></unicode>
+                <string role="key" value="_name"></string>
+                <unicode value="Free Text"></unicode>
+                <string role="key" value="anchor_names"></string>
+                <list></list>
+                <string role="key" value="anchors_linked_from_fields"></string>
+                <dictionary></dictionary>
+                <string role="key" value="content_w_resourcePaths"></string>
+                <unicode content="true" value="&lt;p style=&quot;text-align: left;&quot;&gt;&lt;img src=&quot;resources/Tabla_periodica.png&quot; alt=&quot;Tabla periódica&quot; title=&quot;Tabla periódica de los elementos&quot; style=&quot;vertical-align: text-bottom;&quot; width=&quot;1051&quot; height=&quot;545&quot; /&gt;&lt;span style=&quot;font-size: 12pt; font-family: arial, helvetica, sans-serif; color: #000000;&quot;&gt;&lt;span style=&quot;font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #ffffff; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;font-size: 12pt; font-family: arial, helvetica, sans-serif; color: #000000;&quot;&gt;&lt;span style=&quot;font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #ffffff; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;font-size: 12pt; font-family: arial, helvetica, sans-serif; color: #000000;&quot;&gt;&lt;span style=&quot;font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #ffffff; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;font-size: 12pt; font-family: arial, helvetica, sans-serif; color: #000000;&quot;&gt;&lt;span style=&quot;font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #ffffff; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;La &lt;/span&gt;tabla periódica de los elementos&lt;span style=&quot;font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #ffffff; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt; es una disposición de los &lt;/span&gt;&lt;a href=&quot;https://es.wikipedia.org/wiki/Elemento_qu%C3%ADmico&quot; title=&quot;Elemento químico&quot; style=&quot;text-decoration: none; color: #000000; background: #ffffff none repeat scroll 0% 0%; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; -webkit-text-stroke-width: 0px;&quot;&gt;elementos químicos&lt;/a&gt;&lt;span style=&quot;font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #ffffff; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt; en forma de &lt;/span&gt;&lt;a href=&quot;https://es.wikipedia.org/wiki/Conjunto_de_datos&quot; title=&quot;Conjunto de datos&quot; style=&quot;text-decoration: none; color: #000000; background: #ffffff none repeat scroll 0% 0%; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; -webkit-text-stroke-width: 0px;&quot;&gt;tabla&lt;/a&gt;&lt;span style=&quot;font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #ffffff; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;, ordenados por su &lt;/span&gt;&lt;a href=&quot;https://es.wikipedia.org/wiki/N%C3%BAmero_at%C3%B3mico&quot; title=&quot;Número atómico&quot; style=&quot;text-decoration: none; color: #000000; background: #ffffff none repeat scroll 0% 0%; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; -webkit-text-stroke-width: 0px;&quot;&gt;número atómico&lt;/a&gt;&lt;span style=&quot;font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #ffffff; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt; (número de &lt;/span&gt;&lt;a href=&quot;https://es.wikipedia.org/wiki/Prot%C3%B3n&quot; title=&quot;Protón&quot; style=&quot;text-decoration: none; color: #000000; background: #ffffff none repeat scroll 0% 0%; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; -webkit-text-stroke-width: 0px;&quot;&gt;protones&lt;/a&gt;&lt;span style=&quot;font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #ffffff; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;),&lt;/span&gt;&lt;sup id=&quot;cite_ref-2&quot; class=&quot;reference separada&quot; style=&quot;line-height: 1em; unicode-bidi: isolate; white-space: nowrap; font-weight: 400; font-style: normal; margin-right: 0.6ch; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; text-align: start; text-indent: 0px; text-transform: none; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #ffffff; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&lt;/sup&gt;&lt;span style=&quot;font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #ffffff; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;​ por su &lt;/span&gt;&lt;a href=&quot;https://es.wikipedia.org/wiki/Configuraci%C3%B3n_electr%C3%B3nica&quot; title=&quot;Configuración electrónica&quot; style=&quot;text-decoration: none; color: #000000; background: #ffffff none repeat scroll 0% 0%; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; -webkit-text-stroke-width: 0px;&quot;&gt;configuración de electrones&lt;/a&gt;&lt;span style=&quot;font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #ffffff; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt; y sus &lt;/span&gt;&lt;a href=&quot;https://es.wikipedia.org/wiki/Propiedad_qu%C3%ADmica&quot; title=&quot;Propiedad química&quot; style=&quot;text-decoration: none; color: #000000; background: #ffffff none repeat scroll 0% 0%; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; -webkit-text-stroke-width: 0px;&quot;&gt;propiedades químicas&lt;/a&gt;&lt;span style=&quot;font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #ffffff; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;. Este ordenamiento muestra &lt;/span&gt;tendencias periódicas&lt;span style=&quot;font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #ffffff; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;, como elementos con comportamiento similar en la misma columna.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;font-size: 12pt; font-family: arial, helvetica, sans-serif; color: #000000;&quot;&gt;&lt;span style=&quot;font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #ffffff; display: inline !important; float: none;&quot;&gt;&lt;span style=&quot;font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #ffffff; display: inline !important; float: none;&quot;&gt;Las filas de la tabla se denominan &lt;/span&gt;&lt;a href=&quot;https://es.wikipedia.org/wiki/Tabla_peri%C3%B3dica_de_los_elementos#Per%C3%ADodos&quot; style=&quot;text-decoration: none; color: #000000; background: #ffffff none repeat scroll 0% 0%; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; -webkit-text-stroke-width: 0px;&quot;&gt;períodos&lt;/a&gt;&lt;span style=&quot;font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #ffffff; display: inline !important; float: none;&quot;&gt; y las columnas &lt;/span&gt;&lt;a href=&quot;https://es.wikipedia.org/wiki/Tabla_peri%C3%B3dica_de_los_elementos#Grupos&quot; style=&quot;text-decoration: none; color: #000000; background: #ffffff none repeat scroll 0% 0%; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; -webkit-text-stroke-width: 0px;&quot;&gt;grupos&lt;/a&gt;&lt;span style=&quot;font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #ffffff; display: inline !important; float: none;&quot;&gt;.&lt;/span&gt;&lt;span style=&quot;font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #ffffff; display: inline !important; float: none;&quot;&gt; Algunos grupos tienen nombres, así por ejemplo el grupo 17 es el de los &lt;/span&gt;&lt;a href=&quot;https://es.wikipedia.org/wiki/Hal%C3%B3geno&quot; title=&quot;Halógeno&quot; style=&quot;text-decoration: none; color: #000000; background: #ffffff none repeat scroll 0% 0%; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; -webkit-text-stroke-width: 0px;&quot;&gt;halógenos&lt;/a&gt;&lt;span style=&quot;font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #ffffff; display: inline !important; float: none;&quot;&gt; y el grupo 18 el de los &lt;/span&gt;&lt;a href=&quot;https://es.wikipedia.org/wiki/Gases_nobles&quot; title=&quot;Gases nobles&quot; style=&quot;text-decoration: none; color: #000000; background: #ffffff none repeat scroll 0% 0%; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; -webkit-text-stroke-width: 0px;&quot;&gt;gases nobles&lt;/a&gt;&lt;span style=&quot;font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #ffffff; display: inline !important; float: none;&quot;&gt;.&lt;/span&gt;&lt;span style=&quot;font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #ffffff; display: inline !important; float: none;&quot;&gt; La tabla también se divide en cuatro &lt;/span&gt;&lt;a href=&quot;https://es.wikipedia.org/wiki/Bloque_de_la_tabla_peri%C3%B3dica&quot; class=&quot;mw-redirect&quot; title=&quot;Bloque de la tabla periódica&quot; style=&quot;text-decoration: none; color: #000000; background: #ffffff none repeat scroll 0% 0%; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; -webkit-text-stroke-width: 0px;&quot;&gt;bloques&lt;/a&gt;&lt;span style=&quot;font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #ffffff; display: inline !important; float: none;&quot;&gt; con algunas &lt;/span&gt;&lt;a href=&quot;https://es.wikipedia.org/wiki/Propiedad_qu%C3%ADmica&quot; title=&quot;Propiedad química&quot; style=&quot;text-decoration: none; color: #000000; background: #ffffff none repeat scroll 0% 0%; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; -webkit-text-stroke-width: 0px;&quot;&gt;propiedades químicas&lt;/a&gt;&lt;span style=&quot;font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #ffffff; display: inline !important; float: none;&quot;&gt; similares.&lt;/span&gt;&lt;span style=&quot;font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #ffffff; display: inline !important; float: none;&quot;&gt; Debido a que las posiciones están ordenadas, se puede utilizar la tabla para obtener relaciones entre las propiedades de los elementos, o pronosticar propiedades de elementos nuevos todavía no descubiertos o sintetizados. La tabla periódica proporciona un marco útil para analizar el comportamiento químico y es ampliamente utilizada en &lt;/span&gt;&lt;a href=&quot;https://es.wikipedia.org/wiki/Qu%C3%ADmica&quot; title=&quot;Química&quot; style=&quot;text-decoration: none; color: #000000; background: #ffffff none repeat scroll 0% 0%; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; -webkit-text-stroke-width: 0px;&quot;&gt;química&lt;/a&gt;&lt;span style=&quot;font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #ffffff; display: inline !important; float: none;&quot;&gt; y otras &lt;/span&gt;&lt;a href=&quot;https://es.wikipedia.org/wiki/Ciencia&quot; title=&quot;Ciencia&quot; style=&quot;text-decoration: none; color: #000000; background: #ffffff none repeat scroll 0% 0%; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; -webkit-text-stroke-width: 0px;&quot;&gt;ciencias&lt;/a&gt;&lt;span style=&quot;font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #ffffff; display: inline !important; float: none;&quot;&gt;.&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;"></unicode>
+                <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
+                <int value="4"></int>
+                <string role="key" value="exe.engine.field.FieldWithResources.persistenceVersion"></string>
+                <int value="2"></int>
+                <string role="key" value="exe.engine.field.TextAreaField.persistenceVersion"></string>
+                <int value="3"></int>
+                <string role="key" value="htmlTag"></string>
+                <string value="div"></string>
+                <string role="key" value="images"></string>
+                <instance class="exe.engine.galleryidevice.GalleryImages">
+                 <dictionary>
+                  <string role="key" value=".listitems"></string>
+                  <list>
+                   <instance class="exe.engine.galleryidevice.GalleryImage">
+                    <dictionary>
+                     <string role="key" value="_caption"></string>
+                     <instance class="exe.engine.field.TextField">
+                      <dictionary>
+                       <string role="key" value="_id"></string>
+                       <int value="208"></int>
+                       <string role="key" value="_idevice"></string>
+                       <none></none>
+                       <string role="key" value="_instruc"></string>
+                       <string value=""></string>
+                       <string role="key" value="_name"></string>
+                       <string value=""></string>
+                       <string role="key" value="content"></string>
+                       <string value=""></string>
+                       <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
+                       <int value="4"></int>
+                      </dictionary>
+                     </instance>
+                     <string role="key" value="_id"></string>
+                     <unicode value="20_85.1"></unicode>
+                     <string role="key" value="_imageResource"></string>
+                     <instance class="exe.engine.resource.Resource" reference="6">
+                      <dictionary>
+                       <string role="key" value="_idevice"></string>
+                       <reference key="3"></reference>
+                       <string role="key" value="_package"></string>
+                       <reference key="1"></reference>
+                       <string role="key" value="_storageName"></string>
+                       <string value="Tabla_periodica.png"></string>
+                       <string role="key" value="_userName"></string>
+                       <string value="c:\\users\\david\\appdata\\local\\temp\\tmpixl7lg\\Tabla_periodica.png"></string>
+                       <string role="key" value="checksum"></string>
+                       <string value="efa3335ff4eaa3fd9210f720576d4ecd"></string>
+                       <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
+                       <int value="2"></int>
+                       <string role="key" value="exe.engine.resource._Resource.persistenceVersion"></string>
+                       <int value="2"></int>
+                       <string role="key" value="warningMsg"></string>
+                       <string value=""></string>
+                      </dictionary>
+                     </instance>
+                     <string role="key" value="_parent"></string>
+                     <reference key="4"></reference>
+                     <string role="key" value="_thumbnailResource"></string>
+                     <none></none>
+                     <string role="key" value="exe.engine.galleryidevice.GalleryImage.persistenceVersion"></string>
+                     <int value="3"></int>
+                     <string role="key" value="makeThumbnail"></string>
+                     <bool value="0"></bool>
+                    </dictionary>
+                   </instance>
+                  </list>
+                  <string role="key" value="idevice"></string>
+                  <reference key="4"></reference>
+                 </dictionary>
+                </instance>
+                <string role="key" value="intlinks_to_anchors"></string>
+                <dictionary></dictionary>
+                <string role="key" value="nextImageId"></string>
+                <int value="2"></int>
+                <string role="key" value="parentNode"></string>
+                <reference key="5"></reference>
+               </dictionary>
+              </instance>
+              <string role="key" value="edit"></string>
+              <bool value="0"></bool>
+              <string role="key" value="emphasis"></string>
+              <int value="0"></int>
+              <string role="key" value="exe.engine.freetextidevice.FreeTextIdevice.persistenceVersion"></string>
+              <int value="7"></int>
+              <string role="key" value="icon"></string>
+              <string value=""></string>
+              <string role="key" value="id"></string>
+              <unicode value="20"></unicode>
+              <string role="key" value="lastIdevice"></string>
+              <bool value="0"></bool>
+              <string role="key" value="originalicon"></string>
+              <string value=""></string>
+              <string role="key" value="parent"></string>
+              <none></none>
+              <string role="key" value="parentNode"></string>
+              <reference key="5"></reference>
+              <string role="key" value="systemResources"></string>
+              <list></list>
+              <string role="key" value="type"></string>
+              <none></none>
+              <string role="key" value="undo"></string>
+              <bool value="1"></bool>
+              <string role="key" value="userResources"></string>
+              <list>
+               <reference key="6"></reference>
+              </list>
+              <string role="key" value="version"></string>
+              <int value="0"></int>
+             </dictionary>
+            </instance>
+           </list>
+           <string role="key" value="_id"></string>
+           <unicode value="5"></unicode>
+           <string role="key" value="_package"></string>
+           <reference key="1"></reference>
+           <string role="key" value="anchor_fields"></string>
+           <list></list>
+           <string role="key" value="exe.engine.node.Node.persistenceVersion"></string>
+           <int value="2"></int>
+           <string role="key" value="exportType"></string>
+           <string value="singlepage"></string>
+           <string role="key" value="last_full_node_path"></string>
+           <string value="exe-node:Qu%C3%ADmica:Propiedades%20peri%C3%B3dicas%20de%20los%20elementos:La%20tabla%20peri%C3%B3dica"></string>
+           <string role="key" value="parent"></string>
+           <reference key="7"></reference>
+           <string role="key" value="top_anchors_linked_from_fields"></string>
+           <list></list>
+           <string role="key" value="children"></string>
+           <list></list>
+          </dictionary>
+         </instance>
+         <instance class="exe.engine.node.Node" reference="10">
+          <dictionary>
+           <string role="key" value="_title"></string>
+           <unicode value="Tamaño atómico"></unicode>
+           <string role="key" value="idevices"></string>
+           <list>
+            <instance class="exe.engine.genericidevice.GenericIdevice" reference="8">
+             <dictionary>
+              <string role="key" value="_title"></string>
+              <unicode value="Antes de empezar deberias repasar:"></unicode>
+              <string role="key" value="_author"></string>
+              <string value=""></string>
+              <string role="key" value="_purpose"></string>
+              <unicode value="Prerequisite knowledge refers to the knowledge learners should already
+have in order to be able to effectively complete the learning. Examples of
+pre-knowledge can be: &lt;ul&gt;
+&lt;li&gt;        Learners must have level 4 English &lt;/li&gt;
+&lt;li&gt;        Learners must be able to assemble standard power tools &lt;/li&gt;&lt;/ul&gt;
+"></unicode>
+              <string role="key" value="_tip"></string>
+              <unicode value=""></unicode>
+              <string role="key" value="class_"></string>
+              <unicode value="preknowledge"></unicode>
+              <string role="key" value="edit"></string>
+              <bool value="0"></bool>
+              <string role="key" value="emphasis"></string>
+              <int value="1"></int>
+              <string role="key" value="exe.engine.genericidevice.GenericIdevice.persistenceVersion"></string>
+              <int value="11"></int>
+              <string role="key" value="fields"></string>
+              <list>
+               <instance class="exe.engine.field.TextAreaField" reference="9">
+                <dictionary>
+                 <string role="key" value="_id"></string>
+                 <unicode value="111_2"></unicode>
+                 <string role="key" value="_idevice"></string>
+                 <reference key="8"></reference>
+                 <string role="key" value="_instruc"></string>
+                 <unicode value="Describe the prerequisite knowledge learners should have to effectively
+complete this learning."></unicode>
+                 <string role="key" value="_name"></string>
+                 <unicode value="Preknowledge"></unicode>
+                 <string role="key" value="anchor_names"></string>
+                 <list></list>
+                 <string role="key" value="anchors_linked_from_fields"></string>
+                 <dictionary></dictionary>
+                 <string role="key" value="content_w_resourcePaths"></string>
+                 <unicode content="true" value="&lt;ul&gt;
+&lt;li&gt;La estructura atómica&lt;/li&gt;
+&lt;li&gt;Las configuraciones electrónicas&lt;/li&gt;
+&lt;li&gt;La organización de la tabla periódica en grupos y periodos&lt;/li&gt;
+&lt;/ul&gt;"></unicode>
+                 <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
+                 <int value="4"></int>
+                 <string role="key" value="exe.engine.field.FieldWithResources.persistenceVersion"></string>
+                 <int value="2"></int>
+                 <string role="key" value="exe.engine.field.TextAreaField.persistenceVersion"></string>
+                 <int value="3"></int>
+                 <string role="key" value="htmlTag"></string>
+                 <string value="div"></string>
+                 <string role="key" value="images"></string>
+                 <instance class="exe.engine.galleryidevice.GalleryImages">
+                  <dictionary>
+                   <string role="key" value=".listitems"></string>
+                   <list></list>
+                   <string role="key" value="idevice"></string>
+                   <reference key="9"></reference>
+                  </dictionary>
+                 </instance>
+                 <string role="key" value="intlinks_to_anchors"></string>
+                 <dictionary></dictionary>
+                 <string role="key" value="nextImageId"></string>
+                 <int value="0"></int>
+                 <string role="key" value="parentNode"></string>
+                 <reference key="10"></reference>
+                </dictionary>
+               </instance>
+              </list>
+              <string role="key" value="icon"></string>
+              <unicode value="preknowledge"></unicode>
+              <string role="key" value="id"></string>
+              <unicode value="5"></unicode>
+              <string role="key" value="lastIdevice"></string>
+              <bool value="0"></bool>
+              <string role="key" value="nextFieldId"></string>
+              <int value="3"></int>
+              <string role="key" value="originalicon"></string>
+              <unicode value="preknowledge"></unicode>
+              <string role="key" value="parentNode"></string>
+              <reference key="10"></reference>
+              <string role="key" value="systemResources"></string>
+              <list>
+               <string value="common.js"></string>
+              </list>
+              <string role="key" value="undo"></string>
+              <bool value="1"></bool>
+              <string role="key" value="userResources"></string>
+              <list></list>
+              <string role="key" value="version"></string>
+              <int value="0"></int>
+             </dictionary>
+            </instance>
+            <instance class="exe.engine.genericidevice.GenericIdevice" reference="11">
+             <dictionary>
+              <string role="key" value="_title"></string>
+              <unicode value="Al final de la lección vas a saber:"></unicode>
+              <string role="key" value="_author"></string>
+              <unicode value="University of Auckland"></unicode>
+              <string role="key" value="_purpose"></string>
+              <unicode value="Objectives describe the expected outcomes of the learning and should
+define what the learners will be able to do when they have completed the
+learning tasks."></unicode>
+              <string role="key" value="_tip"></string>
+              <unicode value=""></unicode>
+              <string role="key" value="class_"></string>
+              <unicode value="objectives"></unicode>
+              <string role="key" value="edit"></string>
+              <bool value="0"></bool>
+              <string role="key" value="emphasis"></string>
+              <int value="1"></int>
+              <string role="key" value="exe.engine.genericidevice.GenericIdevice.persistenceVersion"></string>
+              <int value="11"></int>
+              <string role="key" value="fields"></string>
+              <list>
+               <instance class="exe.engine.field.TextAreaField" reference="12">
+                <dictionary>
+                 <string role="key" value="_id"></string>
+                 <unicode value="114_2"></unicode>
+                 <string role="key" value="_idevice"></string>
+                 <reference key="11"></reference>
+                 <string role="key" value="_instruc"></string>
+                 <unicode value="Type the learning objectives for this resource."></unicode>
+                 <string role="key" value="_name"></string>
+                 <unicode value="Objectives"></unicode>
+                 <string role="key" value="anchor_names"></string>
+                 <list></list>
+                 <string role="key" value="anchors_linked_from_fields"></string>
+                 <dictionary></dictionary>
+                 <string role="key" value="content_w_resourcePaths"></string>
+                 <unicode content="true" value="&lt;ul&gt;
+&lt;li&gt;Predecir los tamaños de los átomos de manera cualitativa en función de su posición de la tabla periódica.&lt;/li&gt;
+&lt;li&gt;Comparar el tamaño de distintos átomos.&lt;/li&gt;
+&lt;li&gt;Utilizar el concepto de carga nuclear efectiva.&lt;/li&gt;
+&lt;/ul&gt;"></unicode>
+                 <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
+                 <int value="4"></int>
+                 <string role="key" value="exe.engine.field.FieldWithResources.persistenceVersion"></string>
+                 <int value="2"></int>
+                 <string role="key" value="exe.engine.field.TextAreaField.persistenceVersion"></string>
+                 <int value="3"></int>
+                 <string role="key" value="htmlTag"></string>
+                 <string value="div"></string>
+                 <string role="key" value="images"></string>
+                 <instance class="exe.engine.galleryidevice.GalleryImages">
+                  <dictionary>
+                   <string role="key" value=".listitems"></string>
+                   <list></list>
+                   <string role="key" value="idevice"></string>
+                   <reference key="12"></reference>
+                  </dictionary>
+                 </instance>
+                 <string role="key" value="intlinks_to_anchors"></string>
+                 <dictionary></dictionary>
+                 <string role="key" value="nextImageId"></string>
+                 <int value="0"></int>
+                 <string role="key" value="parentNode"></string>
+                 <reference key="10"></reference>
+                </dictionary>
+               </instance>
+              </list>
+              <string role="key" value="icon"></string>
+              <unicode value="objectives"></unicode>
+              <string role="key" value="id"></string>
+              <unicode value="8"></unicode>
+              <string role="key" value="lastIdevice"></string>
+              <bool value="0"></bool>
+              <string role="key" value="nextFieldId"></string>
+              <int value="3"></int>
+              <string role="key" value="originalicon"></string>
+              <unicode value="objectives"></unicode>
+              <string role="key" value="parentNode"></string>
+              <reference key="10"></reference>
+              <string role="key" value="systemResources"></string>
+              <list>
+               <string value="common.js"></string>
+              </list>
+              <string role="key" value="undo"></string>
+              <bool value="1"></bool>
+              <string role="key" value="userResources"></string>
+              <list></list>
+              <string role="key" value="version"></string>
+              <int value="0"></int>
+             </dictionary>
+            </instance>
+            <instance class="exe.engine.jsidevice.JsIdevice" reference="13">
+             <dictionary>
+              <string role="key" value="_title"></string>
+              <unicode value="Introducción"></unicode>
+              <string role="key" value="_attributes"></string>
+              <list>
+               <tuple>
+                <string value="title"></string>
+                <list>
+                 <string value="Title"></string>
+                 <int value="0"></int>
+                 <int value="0"></int>
+                </list>
+               </tuple>
+               <tuple>
+                <string value="category"></string>
+                <list>
+                 <string value="Category"></string>
+                 <int value="0"></int>
+                 <int value="1"></int>
+                </list>
+               </tuple>
+               <tuple>
+                <string value="css-class"></string>
+                <list>
+                 <string value="CSS class"></string>
+                 <int value="0"></int>
+                 <int value="2"></int>
+                </list>
+               </tuple>
+               <tuple>
+                <string value="icon"></string>
+                <list>
+                 <string value="Icon"></string>
+                 <int value="0"></int>
+                 <int value="3"></int>
+                </list>
+               </tuple>
+              </list>
+              <string role="key" value="_author"></string>
+              <string value=""></string>
+              <string role="key" value="_iDeviceDir"></string>
+              <string value="text"></string>
+              <string role="key" value="_purpose"></string>
+              <string value=""></string>
+              <string role="key" value="_tip"></string>
+              <string value=""></string>
+              <string role="key" value="_valid"></string>
+              <bool value="1"></bool>
+              <string role="key" value="class_"></string>
+              <unicode value="text"></unicode>
+              <string role="key" value="edit"></string>
+              <bool value="0"></bool>
+              <string role="key" value="emphasis"></string>
+              <int value="1"></int>
+              <string role="key" value="exe.engine.jsidevice.JsIdevice.persistenceVersion"></string>
+              <int value="1"></int>
+              <string role="key" value="fields"></string>
+              <list>
+               <instance class="exe.engine.field.TextAreaField" reference="14">
+                <dictionary>
+                 <string role="key" value="_id"></string>
+                 <unicode value="116_2"></unicode>
+                 <string role="key" value="_idevice"></string>
+                 <reference key="13"></reference>
+                 <string role="key" value="_instruc"></string>
+                 <string value=""></string>
+                 <string role="key" value="_name"></string>
+                 <string value=""></string>
+                 <string role="key" value="anchor_names"></string>
+                 <list></list>
+                 <string role="key" value="anchors_linked_from_fields"></string>
+                 <dictionary></dictionary>
+                 <string role="key" value="content_w_resourcePaths"></string>
+                 <unicode content="true" value="&lt;div class=&quot;exe-text&quot;&gt;&lt;p&gt;&lt;span style=&quot;left: 887.4px; top: 1323.43px; font-size: 18.3px; font-family: sans-serif;&quot;&gt;&lt;/span&gt;&lt;span style=&quot;left: 677.5px; top: 1030.48px; font-size: 16.7px; font-family: sans-serif; transform: scaleX(0.919784);&quot;&gt;H.G.J. Mos&lt;/span&gt;&lt;span style=&quot;left: 763.6px; top: 1030.48px; font-size: 16.7px; font-family: sans-serif; transform: scaleX(0.784569);&quot;&gt;eley (1887&lt;/span&gt;&lt;span style=&quot;left: 843.3px; top: 1030.48px; font-size: 16.7px; font-family: sans-serif; transform: scaleX(0.348597);&quot;&gt;-1915) &lt;/span&gt;&lt;span style=&quot;left: 666.8px; top: 1059.68px; font-size: 16.7px; font-family: sans-serif; transform: scaleX(1.06216);&quot;&gt;Introdujo el concepto &lt;/span&gt;&lt;span style=&quot;left: 841px; top: 1059.68px; font-size: 16.7px; font-family: sans-serif; transform: scaleX(0.83644);&quot;&gt;de &lt;/span&gt;&lt;span style=&quot;left: 666.8px; top: 1078.58px; font-size: 16.7px; font-family: sans-serif; transform: scaleX(1.0294);&quot;&gt;número atómico (Z)&lt;/span&gt;&lt;span style=&quot;left: 822.4px; top: 1078.58px; font-size: 16.7px; font-family: sans-serif; transform: scaleX(0.828274);&quot;&gt; al que &lt;/span&gt;&lt;span style=&quot;left: 666.8px; top: 1097.78px; font-size: 16.7px; font-family: sans-serif; transform: scaleX(1.02009);&quot;&gt;identificó con el número de &lt;/span&gt;&lt;span style=&quot;left: 666.8px; top: 1116.98px; font-size: 16.7px; font-family: sans-serif; transform: scaleX(0.947086);&quot;&gt;cargas posit&lt;/span&gt;&lt;span style=&quot;left: 756.7px; top: 1116.98px; font-size: 16.7px; font-family: sans-serif; transform: scaleX(0.924881);&quot;&gt;ivas del núcleo.&lt;/span&gt;&lt;span style=&quot;left: 666.8px; top: 1141.28px; font-size: 16.7px; font-family: sans-serif; transform: scaleX(1.04649);&quot;&gt;Dedujo que las propi&lt;/span&gt;&lt;span style=&quot;left: 831.7px; top: 1141.28px; font-size: 16.7px; font-family: sans-serif; transform: scaleX(0.809665);&quot;&gt;edades &lt;/span&gt;&lt;span style=&quot;left: 666.8px; top: 1160.48px; font-size: 16.7px; font-family: sans-serif; transform: scaleX(0.998187);&quot;&gt;de los elementos d&lt;/span&gt;&lt;span style=&quot;left: 816.9px; top: 1160.48px; font-size: 16.7px; font-family: sans-serif; transform: scaleX(0.859156);&quot;&gt;ependían &lt;/span&gt;&lt;span style=&quot;left: 666.8px; top: 1179.68px; font-size: 16.7px; font-family: sans-serif; transform: scaleX(1.21171);&quot;&gt;de Z. &lt;/span&gt;&lt;span style=&quot;left: 666.8px; top: 1203.58px; font-size: 16.7px; font-family: sans-serif; transform: scaleX(0.976448);&quot;&gt;Murió a los 28 años en la bat&lt;/span&gt;&lt;span style=&quot;left: 880.8px; top: 1203.58px; font-size: 16.7px; font-family: sans-serif; transform: scaleX(0.626391);&quot;&gt;a&lt;/span&gt;&lt;span style=&quot;left: 666.8px; top: 1222.78px; font-size: 16.7px; font-family: sans-serif; transform: scaleX(0.941413);&quot;&gt;lla de Gallipolli (Turq&lt;/span&gt;&lt;span style=&quot;left: 818.8px; top: 1222.78px; font-size: 16.7px; font-family: sans-serif; transform: scaleX(0.431726);&quot;&gt;uía) . &lt;/span&gt;&lt;span style=&quot;left: 94.5px; top: 133.482px; font-size: 16.7px; font-family: sans-serif; transform: scaleX(0.961395);&quot;&gt;Lo más sorprendente de la tabla p&lt;/span&gt;&lt;span style=&quot;left: 347.5px; top: 133.482px; font-size: 16.7px; font-family: sans-serif; transform: scaleX(0.777334);&quot;&gt;eriódica &lt;/span&gt;&lt;span style=&quot;left: 94.5px; top: 152.582px; font-size: 16.7px; font-family: sans-serif; transform: scaleX(0.917508);&quot;&gt;tal vez f&lt;/span&gt;&lt;span style=&quot;left: 151.9px; top: 152.582px; font-size: 16.7px; font-family: sans-serif; transform: scaleX(0.984128);&quot;&gt;uera su capacidad para predecir, no &lt;/span&gt;&lt;span style=&quot;left: 94.5px; top: 171.782px; font-size: 16.7px; font-family: sans-serif; transform: scaleX(0.979774);&quot;&gt;solo la existencia de elementos aún no &lt;/span&gt;&lt;span style=&quot;left: 94.5px; top: 190.982px; font-size: 16.7px; font-family: sans-serif; transform: scaleX(0.927487);&quot;&gt;descubiertos (eka&lt;/span&gt;&lt;span style=&quot;left: 226.1px; top: 190.982px; font-size: 16.7px; font-family: sans-serif; transform: scaleX(0.676567);&quot;&gt;-boro, eka&lt;/span&gt;&lt;span style=&quot;left: 301.1px; top: 190.982px; font-size: 16.7px; font-family: sans-serif; transform: scaleX(0.834601);&quot;&gt;-silicio y eka&lt;/span&gt;&lt;span style=&quot;left: 391.8px; top: 190.982px; font-size: 16.7px; font-family: sans-serif;&quot;&gt;-&lt;/span&gt;&lt;span style=&quot;left: 94.5px; top: 210.082px; font-size: 16.7px; font-family: sans-serif; transform: scaleX(0.911525);&quot;&gt;aluminio)&lt;/span&gt;&lt;span style=&quot;left: 158.5px; top: 210.082px; font-size: 16.7px; font-family: sans-serif; transform: scaleX(0.963767);&quot;&gt;, sino de establecer con una prec&lt;/span&gt;&lt;span style=&quot;left: 404px; top: 210.082px; font-size: 16.7px; font-family: sans-serif; transform: scaleX(0.399361);&quot;&gt;i&lt;/span&gt;&lt;span style=&quot;left: 94.5px; top: 229.282px; font-size: 16.7px; font-family: sans-serif; transform: scaleX(0.979311);&quot;&gt;sión asombrosa la mayor parte de sus pr&lt;/span&gt;&lt;span style=&quot;left: 396.4px; top: 229.282px; font-size: 16.7px; font-family: sans-serif; transform: scaleX(0.626391);&quot;&gt;o-&lt;/span&gt;&lt;span style=&quot;left: 94.5px; top: 248.482px; font-size: 16.7px; font-family: sans-serif; transform: scaleX(0.967766);&quot;&gt;piedades (ver tabla). &lt;/span&gt;&lt;span style=&quot;left: 94.5px; top: 277.582px; font-size: 16.7px; font-family: sans-serif; transform: scaleX(0.988672);&quot;&gt;También es importante el hecho de que &lt;/span&gt;&lt;span style=&quot;left: 94.5px; top: 296.782px; font-size: 16.7px; font-family: sans-serif; transform: scaleX(0.97751);&quot;&gt;Mendeleiev altere el orden est&lt;/span&gt;&lt;span style=&quot;left: 317.8px; top: 296.782px; font-size: 16.7px; font-family: sans-serif; transform: scaleX(0.852099);&quot;&gt;ablecido por &lt;/span&gt;&lt;span style=&quot;left: 94.5px; top: 315.882px; font-size: 16.7px; font-family: sans-serif; transform: scaleX(0.946859);&quot;&gt;el peso atómico&lt;/span&gt;&lt;span style=&quot;left: 240.9px; top: 315.882px; font-size: 16.7px; font-family: sans-serif; transform: scaleX(0.903382);&quot;&gt; para situar los el&lt;/span&gt;&lt;span style=&quot;left: 388.1px; top: 315.882px; font-size: 16.7px; font-family: sans-serif; transform: scaleX(0.626391);&quot;&gt;e&lt;/span&gt;&lt;span style=&quot;left: 94.5px; top: 335.082px; font-size: 16.7px; font-family: sans-serif; transform: scaleX(0.799369);&quot;&gt;mento&lt;/span&gt;&lt;span style=&quot;left: 140.9px; top: 335.082px; font-size: 16.7px; font-family: sans-serif; transform: scaleX(0.981087);&quot;&gt;s en el lugar que les corresponde de &lt;/span&gt;&lt;span style=&quot;left: 94.5px; top: 354.282px; font-size: 16.7px; font-family: sans-serif; transform: scaleX(0.976076);&quot;&gt;acuerdo con sus propi&lt;/span&gt;&lt;span style=&quot;left: 258.6px; top: 354.282px; font-size: 16.7px; font-family: sans-serif; transform: scaleX(0.894378);&quot;&gt;edades químicas, &lt;/span&gt;&lt;span style=&quot;left: 94.5px; top: 373.382px; font-size: 16.7px; font-family: sans-serif; transform: scaleX(0.943524);&quot;&gt;dando prioridad a es&lt;/span&gt;&lt;span style=&quot;left: 246.6px; top: 373.382px; font-size: 16.7px; font-family: sans-serif; transform: scaleX(0.935018);&quot;&gt;tas frente a la masa &lt;/span&gt;&lt;span style=&quot;left: 94.5px; top: 392.582px; font-size: 16.7px; font-family: sans-serif; transform: scaleX(0.773804);&quot;&gt;atómica . &lt;/span&gt;&lt;span style=&quot;left: 94.5px; top: 421.982px; font-size: 16.7px; font-family: sans-serif; transform: scaleX(1.06598);&quot;&gt;Esto implica el reconocimiento (no &lt;/span&gt;&lt;span style=&quot;left: 94.5px; top: 441.082px; font-size: 16.7px; font-family: sans-serif; transform: scaleX(1.02738);&quot;&gt;explícito) de que la ley periód&lt;/span&gt;&lt;span style=&quot;left: 327.9px; top: 441.082px; font-size: 16.7px; font-family: sans-serif; transform: scaleX(0.938253);&quot;&gt;ica no era &lt;/span&gt;&lt;span style=&quot;left: 94.5px; top: 460.282px; font-size: 16.7px; font-family: sans-serif; transform: scaleX(1.01494);&quot;&gt;tal, y que la periodicidad en las propi&lt;/span&gt;&lt;span style=&quot;left: 387.2px; top: 460.282px; font-size: 16.7px; font-family: sans-serif; transform: scaleX(0.626391);&quot;&gt;e&lt;/span&gt;&lt;span style=&quot;left: 94.5px; top: 479.482px; font-size: 16.7px; font-family: sans-serif; transform: scaleX(0.963346);&quot;&gt;dades &lt;/span&gt;&lt;span style=&quot;left: 147.4px; top: 479.482px; font-size: 16.7px; font-family: sans-serif; transform: scaleX(0.979505);&quot;&gt;podría &lt;/span&gt;&lt;span style=&quot;left: 202.9px; top: 479.482px; font-size: 16.7px; font-family: sans-serif; transform: scaleX(1.03446);&quot;&gt;obedecer a otra causa aún &lt;/span&gt;&lt;span style=&quot;left: 94.5px; top: 498.582px; font-size: 16.7px; font-family: sans-serif; transform: scaleX(1.03578);&quot;&gt;desconocida.&lt;/span&gt;&lt;span style=&quot;left: 94.5px; top: 673.382px; font-size: 16.7px; font-family: sans-serif; transform: scaleX(0.986117);&quot;&gt;La tabla periódica actual data de 1944 e incorpora elementos desconocidos en la época de Mendeléiev (g&lt;/span&gt;&lt;span style=&quot;left: 876.6px; top: 673.382px; font-size: 16.7px; font-family: sans-serif; transform: scaleX(0.619643);&quot;&gt;a&lt;/span&gt;&lt;span style=&quot;left: 94.5px; top: 692.582px; font-size: 16.7px; font-family: sans-serif; transform: scaleX(0.98564);&quot;&gt;ses nobles, lantánidos y actínidos) y es atribuida a &lt;/span&gt;&lt;span style=&quot;left: 471.6px; top: 692.582px; font-size: 16.7px; font-family: sans-serif; transform: scaleX(0.896693);&quot;&gt;Seaborg&lt;/span&gt;&lt;span style=&quot;left: 538.4px; top: 692.582px; font-size: 16.7px; font-family: sans-serif; transform: scaleX(0.701916);&quot;&gt; (1912&lt;/span&gt;&lt;span style=&quot;left: 585.6px; top: 692.582px; font-size: 16.7px; font-family: sans-serif; transform: scaleX(0.805429);&quot;&gt;-1999).&lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span style=&quot;left: 141.8px; top: 722.882px; font-size: 16.7px; font-family: sans-serif; transform: scaleX(1.02978);&quot;&gt;Ordena los elementos de acuerdo c&lt;/span&gt;&lt;span style=&quot;left: 423.5px; top: 722.882px; font-size: 16.7px; font-family: sans-serif; transform: scaleX(1.0206);&quot;&gt;on su número atómico&lt;/span&gt;&lt;span style=&quot;left: 602.3px; top: 722.882px; font-size: 16.7px; font-family: sans-serif; transform: scaleX(-0.0153885);&quot;&gt;. &lt;/span&gt;&lt;span style=&quot;left: 141.8px; top: 752.182px; font-size: 16.7px; font-family: sans-serif; transform: scaleX(1.07453);&quot;&gt; Las propiedades de los elementos son función periódica de su &lt;/span&gt;&lt;span style=&quot;left: 141.8px; top: 771.182px; font-size: 16.7px; font-family: sans-serif; transform: scaleX(1.03404);&quot;&gt;número atómico, Z &lt;/span&gt;&lt;span style=&quot;left: 303.2px; top: 771.182px; font-size: 16.7px; font-family: sans-serif; transform: scaleX(1.01454);&quot;&gt;(Moseley, 1913)&lt;/span&gt;&lt;span style=&quot;left: 429.1px; top: 771.182px; font-size: 16.7px; font-family: sans-serif; transform: scaleX(1.00145);&quot;&gt;. El número atómico coincide &lt;/span&gt;&lt;span style=&quot;left: 141.8px; top: 790.382px; font-size: 16.7px; font-family: sans-serif; transform: scaleX(0.998183);&quot;&gt;con el número de protones del núcleo y, para átomos neutros, con el &lt;/span&gt;&lt;span style=&quot;left: 141.8px; top: 809.482px; font-size: 16.7px; font-family: sans-serif; transform: scaleX(0.9934);&quot;&gt;de electrones de la corteza. &lt;/span&gt;&lt;span style=&quot;left: 355.9px; top: 809.482px; font-size: 16.7px; font-family: sans-serif; transform: scaleX(0.961594);&quot;&gt;Como &lt;/span&gt;&lt;span style=&quot;left: 408.7px; top: 809.482px; font-size: 16.7px; font-family: sans-serif; transform: scaleX(0.943088);&quot;&gt;el compo&lt;/span&gt;&lt;span style=&quot;left: 482.8px; top: 809.482px; font-size: 16.7px; font-family: sans-serif; transform: scaleX(1.01163);&quot;&gt;rtamiento químico &lt;/span&gt;&lt;span style=&quot;left: 633.8px; top: 809.482px; font-size: 16.7px; font-family: sans-serif; transform: scaleX(0.840759);&quot;&gt;de &lt;/span&gt;&lt;span style=&quot;left: 141.8px; top: 828.882px; font-size: 16.7px; font-family: sans-serif; transform: scaleX(1.04939);&quot;&gt;un átomo depende de &lt;/span&gt;&lt;span style=&quot;left: 322.9px; top: 828.882px; font-size: 16.7px; font-family: sans-serif; transform: scaleX(1.07451);&quot;&gt;la disposición de los electrones en la c&lt;/span&gt;&lt;span style=&quot;left: 638.4px; top: 828.882px; font-size: 16.7px; font-family: sans-serif; transform: scaleX(0.626391);&quot;&gt;a&lt;/span&gt;&lt;span style=&quot;left: 141.8px; top: 848.082px; font-size: 16.7px; font-family: sans-serif; transform: scaleX(1.01274);&quot;&gt;pa más externa&lt;/span&gt;&lt;span style=&quot;left: 267.7px; top: 848.082px; font-size: 16.7px; font-family: sans-serif; transform: scaleX(1.02582);&quot;&gt; (capa de valencia)&lt;/span&gt;&lt;span style=&quot;left: 422.7px; top: 848.082px; font-size: 16.7px; font-family: sans-serif; transform: scaleX(1.08662);&quot;&gt;, todos los &lt;/span&gt;&lt;span style=&quot;left: 517.4px; top: 848.082px; font-size: 16.7px; font-family: sans-serif; transform: scaleX(1.06068);&quot;&gt;elementos de un &lt;/span&gt;&lt;span style=&quot;left: 141.8px; top: 867.182px; font-size: 16.7px; font-family: sans-serif; transform: scaleX(1.08285);&quot;&gt;grupo tienen propiedades químicas comunes al tener una co&lt;/span&gt;&lt;span style=&quot;left: 637.6px; top: 867.182px; font-size: 16.7px; font-family: sans-serif; transform: scaleX(0.687118);&quot;&gt;n-&lt;/span&gt;&lt;span style=&quot;left: 141.8px; top: 886.382px; font-size: 16.7px; font-family: sans-serif; transform: scaleX(1.06637);&quot;&gt;figuración electrónica similar en su capa de valencia.&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style=&quot;left: 141.8px; top: 916.682px; font-size: 16.7px; font-family: sans-serif; transform: scaleX(1.05723);&quot;&gt;La periodicidad en las propiedades químicas se debe, por tanto&lt;/span&gt;&lt;span style=&quot;left: 648.7px; top: 916.682px; font-size: 16.7px; font-family: sans-serif; transform: scaleX(-0.00459712);&quot;&gt;, &lt;/span&gt;&lt;span style=&quot;left: 141.8px; top: 935.782px; font-size: 16.7px; font-family: sans-serif; transform: scaleX(1.08542);&quot;&gt;a la repetición de las estructuras electrónicas &lt;/span&gt;&lt;span style=&quot;left: 515.4px; top: 935.782px; font-size: 16.7px; font-family: sans-serif; transform: scaleX(1.00362);&quot;&gt;de la capa de v&lt;/span&gt;&lt;span style=&quot;left: 638.4px; top: 935.782px; font-size: 16.7px; font-family: sans-serif; transform: scaleX(0.626391);&quot;&gt;a&lt;/span&gt;&lt;span style=&quot;left: 141.8px; top: 954.982px; font-size: 16.7px; font-family: sans-serif; transform: scaleX(0.980202);&quot;&gt;lencia.&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;"></unicode>
+                 <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
+                 <int value="4"></int>
+                 <string role="key" value="exe.engine.field.FieldWithResources.persistenceVersion"></string>
+                 <int value="2"></int>
+                 <string role="key" value="exe.engine.field.TextAreaField.persistenceVersion"></string>
+                 <int value="3"></int>
+                 <string role="key" value="htmlTag"></string>
+                 <string value="div"></string>
+                 <string role="key" value="images"></string>
+                 <instance class="exe.engine.galleryidevice.GalleryImages">
+                  <dictionary>
+                   <string role="key" value=".listitems"></string>
+                   <list></list>
+                   <string role="key" value="idevice"></string>
+                   <reference key="14"></reference>
+                  </dictionary>
+                 </instance>
+                 <string role="key" value="intlinks_to_anchors"></string>
+                 <dictionary></dictionary>
+                 <string role="key" value="nextImageId"></string>
+                 <int value="0"></int>
+                 <string role="key" value="parentNode"></string>
+                 <reference key="10"></reference>
+                </dictionary>
+               </instance>
+              </list>
+              <string role="key" value="icon"></string>
+              <unicode value=""></unicode>
+              <string role="key" value="id"></string>
+              <unicode value="10"></unicode>
+              <string role="key" value="ideviceCategory"></string>
+              <unicode value="Text and Tasks"></unicode>
+              <string role="key" value="lastIdevice"></string>
+              <bool value="0"></bool>
+              <string role="key" value="nextFieldId"></string>
+              <int value="3"></int>
+              <string role="key" value="originalicon"></string>
+              <string value=""></string>
+              <string role="key" value="parentNode"></string>
+              <reference key="10"></reference>
+              <string role="key" value="systemResources"></string>
+              <list></list>
+              <string role="key" value="undo"></string>
+              <bool value="1"></bool>
+              <string role="key" value="userResources"></string>
+              <list></list>
+              <string role="key" value="version"></string>
+              <int value="0"></int>
+             </dictionary>
+            </instance>
+            <instance class="exe.engine.jsidevice.JsIdevice" reference="15">
+             <dictionary>
+              <string role="key" value="_title"></string>
+              <unicode value="¿Como deberia de estudiar esta lección?"></unicode>
+              <string role="key" value="_attributes"></string>
+              <list>
+               <tuple>
+                <string value="title"></string>
+                <list>
+                 <string value="Title"></string>
+                 <int value="0"></int>
+                 <int value="0"></int>
+                </list>
+               </tuple>
+               <tuple>
+                <string value="category"></string>
+                <list>
+                 <string value="Category"></string>
+                 <int value="0"></int>
+                 <int value="1"></int>
+                </list>
+               </tuple>
+               <tuple>
+                <string value="css-class"></string>
+                <list>
+                 <string value="CSS class"></string>
+                 <int value="0"></int>
+                 <int value="2"></int>
+                </list>
+               </tuple>
+               <tuple>
+                <string value="icon"></string>
+                <list>
+                 <string value="Icon"></string>
+                 <int value="0"></int>
+                 <int value="3"></int>
+                </list>
+               </tuple>
+              </list>
+              <string role="key" value="_author"></string>
+              <string value=""></string>
+              <string role="key" value="_iDeviceDir"></string>
+              <string value="text"></string>
+              <string role="key" value="_purpose"></string>
+              <string value=""></string>
+              <string role="key" value="_tip"></string>
+              <string value=""></string>
+              <string role="key" value="_valid"></string>
+              <bool value="1"></bool>
+              <string role="key" value="class_"></string>
+              <unicode value="text"></unicode>
+              <string role="key" value="edit"></string>
+              <bool value="0"></bool>
+              <string role="key" value="emphasis"></string>
+              <int value="1"></int>
+              <string role="key" value="exe.engine.jsidevice.JsIdevice.persistenceVersion"></string>
+              <int value="1"></int>
+              <string role="key" value="fields"></string>
+              <list>
+               <instance class="exe.engine.field.TextAreaField" reference="16">
+                <dictionary>
+                 <string role="key" value="_id"></string>
+                 <unicode value="117_2"></unicode>
+                 <string role="key" value="_idevice"></string>
+                 <reference key="15"></reference>
+                 <string role="key" value="_instruc"></string>
+                 <string value=""></string>
+                 <string role="key" value="_name"></string>
+                 <string value=""></string>
+                 <string role="key" value="anchor_names"></string>
+                 <list></list>
+                 <string role="key" value="anchors_linked_from_fields"></string>
+                 <dictionary></dictionary>
+                 <string role="key" value="content_w_resourcePaths"></string>
+                 <unicode content="true" value="&lt;div class=&quot;exe-text&quot;&gt;&lt;ol&gt;
+&lt;li&gt;Debes leer la materia y asegurarte que la entiendes en general. Los conceptos mas importantes son los de número atómico, capa electrónica y carga nuclear efectiva.&lt;/li&gt;
+&lt;li&gt;Pregunta todas las dudas que te hayan surgido.&lt;/li&gt;
+&lt;li&gt;Realiza los ejemplos resueltos y comprueba si el resultado es el correcto. En caso de no serlo, trata de averiguarlo y en caso de no conseguirlo pregunta.&lt;/li&gt;
+&lt;li&gt;Practica durante unos días un par de ejercicios.&lt;/li&gt;
+&lt;/ol&gt;&lt;/div&gt;"></unicode>
+                 <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
+                 <int value="4"></int>
+                 <string role="key" value="exe.engine.field.FieldWithResources.persistenceVersion"></string>
+                 <int value="2"></int>
+                 <string role="key" value="exe.engine.field.TextAreaField.persistenceVersion"></string>
+                 <int value="3"></int>
+                 <string role="key" value="htmlTag"></string>
+                 <string value="div"></string>
+                 <string role="key" value="images"></string>
+                 <instance class="exe.engine.galleryidevice.GalleryImages">
+                  <dictionary>
+                   <string role="key" value=".listitems"></string>
+                   <list></list>
+                   <string role="key" value="idevice"></string>
+                   <reference key="16"></reference>
+                  </dictionary>
+                 </instance>
+                 <string role="key" value="intlinks_to_anchors"></string>
+                 <dictionary></dictionary>
+                 <string role="key" value="nextImageId"></string>
+                 <int value="0"></int>
+                 <string role="key" value="parentNode"></string>
+                 <reference key="10"></reference>
+                </dictionary>
+               </instance>
+              </list>
+              <string role="key" value="icon"></string>
+              <unicode value=""></unicode>
+              <string role="key" value="id"></string>
+              <unicode value="11"></unicode>
+              <string role="key" value="ideviceCategory"></string>
+              <unicode value="Text and Tasks"></unicode>
+              <string role="key" value="lastIdevice"></string>
+              <bool value="0"></bool>
+              <string role="key" value="nextFieldId"></string>
+              <int value="3"></int>
+              <string role="key" value="originalicon"></string>
+              <string value=""></string>
+              <string role="key" value="parentNode"></string>
+              <reference key="10"></reference>
+              <string role="key" value="systemResources"></string>
+              <list></list>
+              <string role="key" value="undo"></string>
+              <bool value="1"></bool>
+              <string role="key" value="userResources"></string>
+              <list></list>
+              <string role="key" value="version"></string>
+              <int value="0"></int>
+             </dictionary>
+            </instance>
+            <instance class="exe.engine.freetextidevice.FreeTextIdevice" reference="17">
+             <dictionary>
+              <string role="key" value="_title"></string>
+              <unicode value="Free Text"></unicode>
+              <string role="key" value="_author"></string>
+              <unicode value="University of Auckland"></unicode>
+              <string role="key" value="_purpose"></string>
+              <unicode value="The majority of a learning resource will be 
+establishing context, delivering instructions and providing general information.
+This provides the framework within which the learning activities are built and 
+delivered."></unicode>
+              <string role="key" value="_tip"></string>
+              <string value=""></string>
+              <string role="key" value="childs"></string>
+              <list></list>
+              <string role="key" value="content"></string>
+              <instance class="exe.engine.field.TextAreaField" reference="18">
+               <dictionary>
+                <string role="key" value="_id"></string>
+                <int value="85"></int>
+                <string role="key" value="_idevice"></string>
+                <reference key="17"></reference>
+                <string role="key" value="_instruc"></string>
+                <unicode value="Use this field to enter text. This 
+iDevice has no emphasis applied although limited formatting can be applied to 
+text through the text editing buttons associated with the field."></unicode>
+                <string role="key" value="_name"></string>
+                <unicode value="Free Text"></unicode>
+                <string role="key" value="anchor_names"></string>
+                <list></list>
+                <string role="key" value="anchors_linked_from_fields"></string>
+                <dictionary></dictionary>
+                <string role="key" value="content_w_resourcePaths"></string>
+                <unicode content="true" value="&lt;p&gt;&lt;span style=&quot;left: 94.5px; top: 234.182px; font-size: 16.7px; font-family: sans-serif; transform: scaleX(0.875139);&quot;&gt;El tamaño&lt;/span&gt;&lt;span style=&quot;left: 169.6px; top: 234.182px; font-size: 16.7px; font-family: sans-serif; transform: scaleX(0.922203);&quot;&gt; de un átomo viene cond&lt;/span&gt;&lt;span style=&quot;left: 352.2px; top: 234.182px; font-size: 16.7px; font-family: sans-serif; transform: scaleX(0.884687);&quot;&gt;icionado por tre&lt;/span&gt;&lt;span style=&quot;left: 467px; top: 234.182px; font-size: 16.7px; font-family: sans-serif; transform: scaleX(0.939321);&quot;&gt;s factores:&lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span style=&quot;left: 118.2px; top: 264.482px; font-size: 16.7px; font-family: sans-serif; transform: scaleX(1.0437);&quot;&gt;El número de capas que posea&lt;/span&gt;&lt;span style=&quot;left: 368.8px; top: 264.482px; font-size: 16.7px; font-family: sans-serif; transform: scaleX(0.949692);&quot;&gt;. Los átomos qu&lt;/span&gt;&lt;span style=&quot;left: 491px; top: 264.482px; font-size: 16.7px; font-family: sans-serif; transform: scaleX(1.00684);&quot;&gt;e tengan más capas tendrán, lógicamente, un tamaño &lt;/span&gt;&lt;span style=&quot;left: 118.2px; top: 283.682px; font-size: 16.7px; font-family: sans-serif; transform: scaleX(0.963779);&quot;&gt;superior a aquellos otros que pos&lt;/span&gt;&lt;span style=&quot;left: 364.7px; top: 283.682px; font-size: 16.7px; font-family: sans-serif; transform: scaleX(0.891588);&quot;&gt;ean pocas capas.&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style=&quot;left: 118.2px; top: 313.882px; font-size: 16.7px; font-family: sans-serif; transform: scaleX(1.08298);&quot;&gt;El número de el&lt;/span&gt;&lt;span style=&quot;left: 249.5px; top: 313.882px; font-size: 16.7px; font-family: sans-serif; transform: scaleX(1.07519);&quot;&gt;ectrones situado en la última capa o capa de valencia&lt;/span&gt;&lt;span style=&quot;left: 695.5px; top: 313.882px; font-size: 16.7px; font-family: sans-serif; transform: scaleX(1.02219);&quot;&gt;. La existencia de muchos &lt;/span&gt;&lt;span style=&quot;left: 118.2px; top: 333.082px; font-size: 16.7px; font-family: sans-serif; transform: scaleX(0.97874);&quot;&gt;electrones en la última capa &lt;/span&gt;&lt;span style=&quot;left: 331.1px; top: 333.082px; font-size: 16.7px; font-family: sans-serif; transform: scaleX(0.865266);&quot;&gt;hace que aumente&lt;/span&gt;&lt;span style=&quot;left: 469.3px; top: 333.082px; font-size: 16.7px; font-family: sans-serif; transform: scaleX(0.916811);&quot;&gt; el tamaño del &lt;/span&gt;&lt;span style=&quot;left: 579.2px; top: 333.082px; font-size: 16.7px; font-family: sans-serif; transform: scaleX(0.883697);&quot;&gt;átomo, ya que los ele&lt;/span&gt;&lt;span style=&quot;left: 738.1px; top: 333.082px; font-size: 16.7px; font-family: sans-serif; transform: scaleX(0.970986);&quot;&gt;ctrones, al ser cargas &lt;/span&gt;&lt;span style=&quot;left: 118.2px; top: 352.282px; font-size: 16.7px; font-family: sans-serif; transform: scaleX(0.937702);&quot;&gt;negativas,&lt;/span&gt;&lt;span style=&quot;left: 194.2px; top: 352.282px; font-size: 16.7px; font-family: sans-serif; transform: scaleX(0.915628);&quot;&gt; se repelen y tienden a&lt;/span&gt;&lt;span style=&quot;left: 362.9px; top: 352.282px; font-size: 16.7px; font-family: sans-serif; transform: scaleX(0.874048);&quot;&gt; separarse unos de otros.&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style=&quot;left: 118.2px; top: 382.482px; font-size: 16.7px; font-family: sans-serif; transform: scaleX(1.00824);&quot;&gt;La carga &lt;/span&gt;&lt;span style=&quot;left: 194.5px; top: 382.482px; font-size: 16.7px; font-family: sans-serif; transform: scaleX(1.0033);&quot;&gt;efectiva (Z*)&lt;/span&gt;&lt;span style=&quot;left: 290.5px; top: 382.482px; font-size: 16.7px; font-family: sans-serif; transform: scaleX(0.930499);&quot;&gt; del núcleo&lt;/span&gt;&lt;span style=&quot;left: 380.5px; top: 382.482px; font-size: 16.7px; font-family: sans-serif; transform: scaleX(0.988305);&quot;&gt;. Un electrón situado a de&lt;/span&gt;&lt;span style=&quot;left: 578px; top: 382.482px; font-size: 16.7px; font-family: sans-serif; transform: scaleX(0.997066);&quot;&gt;terminada distancia del núcleo &lt;/span&gt;&lt;span style=&quot;left: 813.7px; top: 382.482px; font-size: 16.7px; font-family: sans-serif; transform: scaleX(0.962364);&quot;&gt;estará más &lt;/span&gt;&lt;span style=&quot;left: 118.2px; top: 401.682px; font-size: 16.7px; font-family: sans-serif; transform: scaleX(1.03705);&quot;&gt;fuertemente atraído por éste (tendiendo a situarse a &lt;/span&gt;&lt;span style=&quot;left: 530.2px; top: 401.682px; font-size: 16.7px; font-family: sans-serif; transform: scaleX(1.03301);&quot;&gt;menor distancia) si la carga nuclear &lt;/span&gt;&lt;span style=&quot;left: 815px; top: 401.682px; font-size: 16.7px; font-family: sans-serif; transform: scaleX(0.924634);&quot;&gt;efectiva &lt;/span&gt;&lt;span style=&quot;left: 880px; top: 401.682px; font-size: 16.7px; font-family: sans-serif; transform: scaleX(0.79425);&quot;&gt;es &lt;/span&gt;&lt;span style=&quot;left: 118.2px; top: 420.882px; font-size: 16.7px; font-family: sans-serif; transform: scaleX(0.917935);&quot;&gt;grande.&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;span style=&quot;left: 94.5px; top: 450.082px; font-size: 16.7px; font-family: sans-serif; transform: scaleX(0.953775);&quot;&gt;Si nos situamos en un grupo&lt;/span&gt;&lt;span style=&quot;left: 305.7px; top: 450.082px; font-size: 16.7px; font-family: sans-serif; transform: scaleX(0.715971);&quot;&gt;, los át&lt;/span&gt;&lt;span style=&quot;left: 354.8px; top: 450.082px; font-size: 16.7px; font-family: sans-serif; transform: scaleX(0.970815);&quot;&gt;omos tendrán mayor n&lt;/span&gt;&lt;span style=&quot;left: 354.8px; top: 450.082px; font-size: 16.7px; font-family: sans-serif; transform: scaleX(0.970815);&quot;&gt;úmero de capas a medida que descendemos. &lt;/span&gt;&lt;span style=&quot;left: 864.4px; top: 450.082px; font-size: 16.7px; font-family: sans-serif; transform: scaleX(0.938482);&quot;&gt;Los &lt;/span&gt;&lt;span style=&quot;left: 94.5px; top: 469.382px; font-size: 16.7px; font-family: sans-serif; transform: scaleX(0.949971);&quot;&gt;elementos&lt;/span&gt;&lt;span style=&quot;left: 177px; top: 469.382px; font-size: 16.7px; font-family: sans-serif; transform: scaleX(1.03191);&quot;&gt; más pequeños estarán situados &lt;/span&gt;&lt;span style=&quot;left: 440.1px; top: 469.382px; font-size: 16.7px; font-family: sans-serif; transform: scaleX(1.0627);&quot;&gt;en la parte superior y los más voluminosos en la parte de &lt;/span&gt;&lt;span style=&quot;left: 94.5px; top: 488.582px; font-size: 16.7px; font-family: sans-serif; transform: scaleX(0.967571);&quot;&gt;abajo del sistema periód&lt;/span&gt;&lt;span style=&quot;left: 289.1px; top: 488.582px; font-size: 16.7px; font-family: sans-serif; transform: scaleX(0.631404);&quot;&gt;ico. &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;left: 94.5px; top: 517.582px; font-size: 16.7px; font-family: sans-serif; transform: scaleX(0.993593);&quot;&gt;En un periodo todos los elementos tienen igual número de capas&lt;/span&gt;&lt;span style=&quot;left: 580.8px; top: 517.582px; font-size: 16.7px; font-family: sans-serif; transform: scaleX(0.982014);&quot;&gt; (aunque los elementos d&lt;/span&gt;&lt;span style=&quot;left: 580.8px; top: 517.582px; font-size: 16.7px; font-family: sans-serif; transform: scaleX(0.982014);&quot;&gt;e transición col&lt;/span&gt;&lt;span style=&quot;left: 882.8px; top: 517.582px; font-size: 16.7px; font-family: sans-serif; transform: scaleX(0.626391);&quot;&gt;o-&lt;/span&gt;&lt;span style=&quot;left: 94.5px; top: 536.682px; font-size: 16.7px; font-family: sans-serif; transform: scaleX(0.985593);&quot;&gt;can los electrones en el n&lt;/span&gt;&lt;span style=&quot;left: 290.6px; top: 536.682px; font-size: 16.7px; font-family: sans-serif; transform: scaleX(0.993186);&quot;&gt;ivel “d” de la penúltima capa, e&lt;/span&gt;&lt;span style=&quot;left: 525.9px; top: 536.682px; font-size: 16.7px; font-family: sans-serif; transform: scaleX(1.01122);&quot;&gt;ste se encuentra muy cerca de la última)&lt;/span&gt;&lt;span style=&quot;left: 835.8px; top: 536.682px; font-size: 16.7px; font-family: sans-serif; transform: scaleX(0.495594);&quot;&gt;. &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;left: 846.4px; top: 536.682px; font-size: 16.7px; font-family: sans-serif; transform: scaleX(1.00495);&quot;&gt;En los &lt;/span&gt;&lt;span style=&quot;left: 94.5px; top: 556.082px; font-size: 16.7px; font-family: sans-serif; transform: scaleX(0.898145);&quot;&gt;periodos cortos&lt;/span&gt;&lt;span style=&quot;left: 221.2px; top: 556.082px; font-size: 16.7px; font-family: sans-serif; transform: scaleX(0.980886);&quot;&gt; a medida que &lt;/span&gt;&lt;span style=&quot;left: 339.5px; top: 556.082px; font-size: 16.7px; font-family: sans-serif; transform: scaleX(1.03191);&quot;&gt;vamos hacia la der&lt;/span&gt;&lt;span style=&quot;left: 490.6px; top: 556.082px; font-size: 16.7px; font-family: sans-serif; transform: scaleX(0.896841);&quot;&gt;echa, la carga nuclear efectiva aumenta con lo que &lt;/span&gt;&lt;span style=&quot;left: 94.5px; top: 575.082px; font-size: 16.7px; font-family: sans-serif; transform: scaleX(1.04853);&quot;&gt;se produce una disminución d&lt;/span&gt;&lt;span style=&quot;left: 339.5px; top: 575.082px; font-size: 16.7px; font-family: sans-serif; transform: scaleX(1.0522);&quot;&gt;el tamaño de los át&lt;/span&gt;&lt;span style=&quot;left: 493.6px; top: 575.082px; font-size: 16.7px; font-family: sans-serif; transform: scaleX(0.455387);&quot;&gt;omo&lt;/span&gt;&lt;span style=&quot;left: 528.8px; top: 575.082px; font-size: 16.7px; font-family: sans-serif; transform: scaleX(0.98239);&quot;&gt;s, ya que el efecto de repu&lt;/span&gt;&lt;span style=&quot;left: 731.5px; top: 575.082px; font-size: 16.7px; font-family: sans-serif; transform: scaleX(0.788301);&quot;&gt;lsión en&lt;/span&gt;&lt;span style=&quot;left: 789.9px; top: 575.082px; font-size: 16.7px; font-family: sans-serif; transform: scaleX(0.926667);&quot;&gt;tre los &lt;/span&gt;&lt;span style=&quot;left: 842px; top: 575.082px; font-size: 16.7px; font-family: sans-serif; transform: scaleX(0.521662);&quot;&gt;electro&lt;/span&gt;&lt;span style=&quot;left: 94.5px; top: 594.182px; font-size: 16.7px; font-family: sans-serif; transform: scaleX(0.926526);&quot;&gt;nes no es grande&lt;/span&gt;&lt;span style=&quot;left: 223.4px; top: 594.182px; font-size: 16.7px; font-family: sans-serif; transform: scaleX(-0.0153885);&quot;&gt;. &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;left: 94.5px; top: 623.382px; font-size: 16.7px; font-family: sans-serif; transform: scaleX(1.00811);&quot;&gt;En los periodos largos la tendencia es &lt;/span&gt;&lt;span style=&quot;left: 94.5px; top: 642.482px; font-size: 16.7px; font-family: sans-serif; transform: scaleX(0.796493);&quot;&gt;mucho m&lt;/span&gt;&lt;span style=&quot;left: 163.1px; top: 642.482px; font-size: 16.7px; font-family: sans-serif; transform: scaleX(0.930629);&quot;&gt;ás irregular&lt;/span&gt;&lt;span style=&quot;left: 246.5px; top: 642.482px; font-size: 16.7px; font-family: sans-serif; transform: scaleX(-0.0153885);&quot;&gt;. &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;left: 94.5px; top: 671.882px; font-size: 16.7px; font-family: sans-serif; transform: scaleX(1.06441);&quot;&gt;En el cuarto periodo se sigu&lt;/span&gt;&lt;span style=&quot;left: 349.7px; top: 671.882px; font-size: 16.7px; font-family: sans-serif; transform: scaleX(0.942);&quot;&gt;e la &lt;/span&gt;&lt;span style=&quot;left: 94.5px; top: 691.082px; font-size: 16.7px; font-family: sans-serif; transform: scaleX(0.992009);&quot;&gt;tendencia de disminuir el tamaño de &lt;/span&gt;&lt;span style=&quot;left: 94.5px; top: 710.182px; font-size: 16.7px; font-family: sans-serif; transform: scaleX(0.909469);&quot;&gt;izquierda a derecha. &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;left: 94.5px; top: 739.182px; font-size: 16.7px; font-family: sans-serif; transform: scaleX(0.269126);&quot;&gt;En los periodos quinto y sexto&lt;/span&gt;&lt;span style=&quot;left: 319.7px; top: 739.182px; font-size: 16.7px; font-family: sans-serif; transform: scaleX(0.945772);&quot;&gt;, y hasta &lt;/span&gt;&lt;span style=&quot;left: 94.5px; top: 758.382px; font-size: 16.7px; font-family: sans-serif; transform: scaleX(0.972429);&quot;&gt;la mitad del mismo, la tende&lt;/span&gt;&lt;span style=&quot;left: 312.9px; top: 758.382px; font-size: 16.7px; font-family: sans-serif; transform: scaleX(0.861505);&quot;&gt;nci&lt;/span&gt;&lt;span style=&quot;left: 312.9px; top: 758.382px; font-size: 16.7px; font-family: sans-serif; transform: scaleX(0.861505);&quot;&gt;a es a &lt;/span&gt;&lt;span style=&quot;left: 94.5px; top: 777.482px; font-size: 16.7px; font-family: sans-serif; transform: scaleX(0.777607);&quot;&gt;disminuir el tamaño &lt;/span&gt;&lt;span style=&quot;left: 245.6px; top: 777.482px; font-size: 16.7px; font-family: sans-serif; transform: scaleX(0.897936);&quot;&gt;debido al a&lt;/span&gt;&lt;span style=&quot;left: 328.3px; top: 777.482px; font-size: 16.7px; font-family: sans-serif; transform: scaleX(0.76635);&quot;&gt;umento &lt;/span&gt;&lt;span style=&quot;left: 94.5px; top: 796.682px; font-size: 16.7px; font-family: sans-serif; transform: scaleX(0.998643);&quot;&gt;de carga nuclear&lt;/span&gt;&lt;span style=&quot;left: 224.3px; top: 796.682px; font-size: 16.7px; font-family: sans-serif; transform: scaleX(0.819626);&quot;&gt; efectiva&lt;/span&gt;&lt;span style=&quot;left: 289.2px; top: 796.682px; font-size: 16.7px; font-family: sans-serif; transform: scaleX(1.03947);&quot;&gt;. A partir de &lt;/span&gt;&lt;span style=&quot;left: 94.5px; top: 815.882px; font-size: 16.7px; font-family: sans-serif; transform: scaleX(0.827134);&quot;&gt;la mita&lt;/span&gt;&lt;span style=&quot;left: 144.5px; top: 815.882px; font-size: 16.7px; font-family: sans-serif; transform: scaleX(0.868419);&quot;&gt;d, y deb&lt;/span&gt;&lt;span style=&quot;left: 205.4px; top: 815.882px; font-size: 16.7px; font-family: sans-serif; transform: scaleX(0.960763);&quot;&gt;ido a la gran concentr&lt;/span&gt;&lt;span style=&quot;left: 369px; top: 815.882px; font-size: 16.7px; font-family: sans-serif; transform: scaleX(0.626391);&quot;&gt;a&lt;/span&gt;&lt;span style=&quot;left: 94.5px; top: 834.982px; font-size: 16.7px; font-family: sans-serif; transform: scaleX(0.947709);&quot;&gt;ción de electro&lt;/span&gt;&lt;span style=&quot;left: 206.8px; top: 834.982px; font-size: 16.7px; font-family: sans-serif; transform: scaleX(1.06245);&quot;&gt;nes, el efecto de repu&lt;/span&gt;&lt;span style=&quot;left: 374.7px; top: 834.982px; font-size: 16.7px; font-family: sans-serif; transform: scaleX(0.386768);&quot;&gt;l&lt;/span&gt;&lt;span style=&quot;left: 94.5px; top: 854.182px; font-size: 16.7px; font-family: sans-serif; transform: scaleX(0.961353);&quot;&gt;sión se hace más imp&lt;/span&gt;&lt;span style=&quot;left: 259.1px; top: 854.182px; font-size: 16.7px; font-family: sans-serif; transform: scaleX(0.928184);&quot;&gt;ortante, los ele&lt;/span&gt;&lt;span style=&quot;left: 370px; top: 854.182px; font-size: 16.7px; font-family: sans-serif; transform: scaleX(0.6024);&quot;&gt;c&lt;/span&gt;&lt;span style=&quot;left: 94.5px; top: 873.382px; font-size: 16.7px; font-family: sans-serif; transform: scaleX(0.881189);&quot;&gt;trones tienden a aleja&lt;/span&gt;&lt;span style=&quot;left: 258.8px; top: 873.382px; font-size: 16.7px; font-family: sans-serif; transform: scaleX(0.87924);&quot;&gt;rse y el &lt;/span&gt;&lt;span style=&quot;left: 322.1px; top: 873.382px; font-size: 16.7px; font-family: sans-serif; transform: scaleX(0.552915);&quot;&gt; tamaño &lt;/span&gt;&lt;span style=&quot;left: 94.5px; top: 892.482px; font-size: 16.7px; font-family: sans-serif; transform: scaleX(0.882595);&quot;&gt;crece hasta el &lt;/span&gt;&lt;span style=&quot;left: 204.6px; top: 892.482px; font-size: 16.7px; font-family: sans-serif; transform: scaleX(0.929381);&quot;&gt;final del bloque &lt;/span&gt;&lt;span style=&quot;left: 323.2px; top: 892.482px; font-size: 16.7px; font-family: sans-serif; transform: scaleX(0.576815);&quot;&gt;“d”. Una &lt;/span&gt;&lt;span style=&quot;left: 94.5px; top: 911.682px; font-size: 16.7px; font-family: sans-serif; transform: scaleX(0.969764);&quot;&gt;vez iniciado el bloque &lt;/span&gt;&lt;span style=&quot;left: 270.5px; top: 911.682px; font-size: 16.7px; font-family: sans-serif; transform: scaleX(0.725658);&quot;&gt;“p” se produce &lt;/span&gt;&lt;span style=&quot;left: 94.5px; top: 930.882px; font-size: 16.7px; font-family: sans-serif; transform: scaleX(0.951868);&quot;&gt;una contracci&lt;/span&gt;&lt;span style=&quot;left: 197.2px; top: 930.882px; font-size: 16.7px; font-family: sans-serif; transform: scaleX(0.916301);&quot;&gt;ón de los &lt;/span&gt;&lt;span style=&quot;left: 280.3px; top: 930.882px; font-size: 16.7px; font-family: sans-serif; transform: scaleX(0.944952);&quot;&gt;átomos hasta &lt;/span&gt;&lt;span style=&quot;left: 94.5px; top: 949.982px; font-size: 16.7px; font-family: sans-serif; transform: scaleX(0.990179);&quot;&gt;presentar valores m&lt;/span&gt;&lt;span style=&quot;left: 263.8px; top: 949.982px; font-size: 16.7px; font-family: sans-serif; transform: scaleX(1.06805);&quot;&gt;ínimos en los &lt;/span&gt;&lt;span style=&quot;left: 94.5px; top: 969.182px; font-size: 16.7px; font-family: sans-serif; transform: scaleX(1.00977);&quot;&gt;halógenos.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;left: 94.5px; top: 998.382px; font-size: 16.7px; font-family: sans-serif; transform: scaleX(0.993416);&quot;&gt;En resumen, en los periodos largos &lt;/span&gt;&lt;span style=&quot;left: 370px; top: 998.382px; font-size: 16.7px; font-family: sans-serif; transform: scaleX(1.00668);&quot;&gt;los átomos más pequ&lt;/span&gt;&lt;span style=&quot;left: 544.7px; top: 998.382px; font-size: 16.7px; font-family: sans-serif; transform: scaleX(0.990306);&quot;&gt;eños se encuentran situ&lt;/span&gt;&lt;span style=&quot;left: 739.8px; top: 998.382px; font-size: 16.7px; font-family: sans-serif; transform: scaleX(0.878495);&quot;&gt;ado&lt;/span&gt;&lt;span style=&quot;left: 739.8px; top: 998.382px; font-size: 16.7px; font-family: sans-serif; transform: scaleX(0.878495);&quot;&gt;s hacia la mitad &lt;/span&gt;&lt;span style=&quot;left: 94.5px; top: 1017.68px; font-size: 16.7px; font-family: sans-serif; transform: scaleX(0.927422);&quot;&gt;periodo y al final del mismo&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;left: 877.2px; top: 1323.43px; font-size: 18.3px; font-family: sans-serif; transform: scaleX(0.50048);&quot;&gt;&lt;img src=&quot;resources/Radio.gif&quot; alt=&quot;Radio atómico&quot; title=&quot;Radio atómico&quot; style=&quot;vertical-align: bottom;&quot; width=&quot;663&quot; height=&quot;391&quot; /&gt;&lt;/span&gt;&lt;/p&gt;"></unicode>
+                <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
+                <int value="4"></int>
+                <string role="key" value="exe.engine.field.FieldWithResources.persistenceVersion"></string>
+                <int value="2"></int>
+                <string role="key" value="exe.engine.field.TextAreaField.persistenceVersion"></string>
+                <int value="3"></int>
+                <string role="key" value="htmlTag"></string>
+                <string value="div"></string>
+                <string role="key" value="images"></string>
+                <instance class="exe.engine.galleryidevice.GalleryImages">
+                 <dictionary>
+                  <string role="key" value=".listitems"></string>
+                  <list>
+                   <instance class="exe.engine.galleryidevice.GalleryImage">
+                    <dictionary>
+                     <string role="key" value="_caption"></string>
+                     <instance class="exe.engine.field.TextField">
+                      <dictionary>
+                       <string role="key" value="_id"></string>
+                       <int value="206"></int>
+                       <string role="key" value="_idevice"></string>
+                       <none></none>
+                       <string role="key" value="_instruc"></string>
+                       <string value=""></string>
+                       <string role="key" value="_name"></string>
+                       <string value=""></string>
+                       <string role="key" value="content"></string>
+                       <string value=""></string>
+                       <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
+                       <int value="4"></int>
+                      </dictionary>
+                     </instance>
+                     <string role="key" value="_id"></string>
+                     <unicode value="17_85.1"></unicode>
+                     <string role="key" value="_imageResource"></string>
+                     <instance class="exe.engine.resource.Resource" reference="19">
+                      <dictionary>
+                       <string role="key" value="_idevice"></string>
+                       <reference key="17"></reference>
+                       <string role="key" value="_package"></string>
+                       <reference key="1"></reference>
+                       <string role="key" value="_storageName"></string>
+                       <string value="Radio.gif"></string>
+                       <string role="key" value="_userName"></string>
+                       <string value="c:\\users\\david\\appdata\\local\\temp\\tmpixl7lg\\Radio.gif"></string>
+                       <string role="key" value="checksum"></string>
+                       <string value="e9c6603ae2b609e5f5fd138a6df20ae7"></string>
+                       <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
+                       <int value="2"></int>
+                       <string role="key" value="exe.engine.resource._Resource.persistenceVersion"></string>
+                       <int value="2"></int>
+                       <string role="key" value="warningMsg"></string>
+                       <string value=""></string>
+                      </dictionary>
+                     </instance>
+                     <string role="key" value="_parent"></string>
+                     <reference key="18"></reference>
+                     <string role="key" value="_thumbnailResource"></string>
+                     <none></none>
+                     <string role="key" value="exe.engine.galleryidevice.GalleryImage.persistenceVersion"></string>
+                     <int value="3"></int>
+                     <string role="key" value="makeThumbnail"></string>
+                     <bool value="0"></bool>
+                    </dictionary>
+                   </instance>
+                  </list>
+                  <string role="key" value="idevice"></string>
+                  <reference key="18"></reference>
+                 </dictionary>
+                </instance>
+                <string role="key" value="intlinks_to_anchors"></string>
+                <dictionary></dictionary>
+                <string role="key" value="nextImageId"></string>
+                <int value="2"></int>
+                <string role="key" value="parentNode"></string>
+                <reference key="10"></reference>
+               </dictionary>
+              </instance>
+              <string role="key" value="edit"></string>
+              <bool value="0"></bool>
+              <string role="key" value="emphasis"></string>
+              <int value="0"></int>
+              <string role="key" value="exe.engine.freetextidevice.FreeTextIdevice.persistenceVersion"></string>
+              <int value="7"></int>
+              <string role="key" value="icon"></string>
+              <string value=""></string>
+              <string role="key" value="id"></string>
+              <unicode value="17"></unicode>
+              <string role="key" value="lastIdevice"></string>
+              <bool value="0"></bool>
+              <string role="key" value="originalicon"></string>
+              <string value=""></string>
+              <string role="key" value="parent"></string>
+              <none></none>
+              <string role="key" value="parentNode"></string>
+              <reference key="10"></reference>
+              <string role="key" value="systemResources"></string>
+              <list></list>
+              <string role="key" value="type"></string>
+              <none></none>
+              <string role="key" value="undo"></string>
+              <bool value="1"></bool>
+              <string role="key" value="userResources"></string>
+              <list>
+               <reference key="19"></reference>
+              </list>
+              <string role="key" value="version"></string>
+              <int value="0"></int>
+             </dictionary>
+            </instance>
+           </list>
+           <string role="key" value="_id"></string>
+           <unicode value="2"></unicode>
+           <string role="key" value="_package"></string>
+           <reference key="1"></reference>
+           <string role="key" value="anchor_fields"></string>
+           <list></list>
+           <string role="key" value="exe.engine.node.Node.persistenceVersion"></string>
+           <int value="2"></int>
+           <string role="key" value="exportType"></string>
+           <string value="singlepage"></string>
+           <string role="key" value="last_full_node_path"></string>
+           <string value="exe-node:Qu%C3%ADmica:Propiedades%20peri%C3%B3dicas%20de%20los%20elementos:Tama%C3%B1o%20at%C3%B3mico"></string>
+           <string role="key" value="parent"></string>
+           <reference key="7"></reference>
+           <string role="key" value="top_anchors_linked_from_fields"></string>
+           <list></list>
+           <string role="key" value="children"></string>
+           <list>
+            <instance class="exe.engine.node.Node" reference="22">
+             <dictionary>
+              <string role="key" value="_title"></string>
+              <unicode value="Radio iónico"></unicode>
+              <string role="key" value="idevices"></string>
+              <list>
+               <instance class="exe.engine.freetextidevice.FreeTextIdevice" reference="20">
+                <dictionary>
+                 <string role="key" value="_title"></string>
+                 <unicode value="Free Text"></unicode>
+                 <string role="key" value="_author"></string>
+                 <unicode value="University of Auckland"></unicode>
+                 <string role="key" value="_purpose"></string>
+                 <unicode value="The majority of a learning resource will be 
+establishing context, delivering instructions and providing general information.
+This provides the framework within which the learning activities are built and 
+delivered."></unicode>
+                 <string role="key" value="_tip"></string>
+                 <string value=""></string>
+                 <string role="key" value="childs"></string>
+                 <list></list>
+                 <string role="key" value="content"></string>
+                 <instance class="exe.engine.field.TextAreaField" reference="21">
+                  <dictionary>
+                   <string role="key" value="_id"></string>
+                   <int value="85"></int>
+                   <string role="key" value="_idevice"></string>
+                   <reference key="20"></reference>
+                   <string role="key" value="_instruc"></string>
+                   <unicode value="Use this field to enter text. This 
+iDevice has no emphasis applied although limited formatting can be applied to 
+text through the text editing buttons associated with the field."></unicode>
+                   <string role="key" value="_name"></string>
+                   <unicode value="Free Text"></unicode>
+                   <string role="key" value="anchor_names"></string>
+                   <list></list>
+                   <string role="key" value="anchors_linked_from_fields"></string>
+                   <dictionary></dictionary>
+                   <string role="key" value="content_w_resourcePaths"></string>
+                   <unicode content="true" value="&lt;p&gt;&lt;img src=&quot;resources/radio_ionico.jpg&quot; alt=&quot;Radio iónico&quot; title=&quot;Radio iónico&quot; width=&quot;1450&quot; height=&quot;708&quot; /&gt;&lt;/p&gt;"></unicode>
+                   <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
+                   <int value="4"></int>
+                   <string role="key" value="exe.engine.field.FieldWithResources.persistenceVersion"></string>
+                   <int value="2"></int>
+                   <string role="key" value="exe.engine.field.TextAreaField.persistenceVersion"></string>
+                   <int value="3"></int>
+                   <string role="key" value="htmlTag"></string>
+                   <string value="div"></string>
+                   <string role="key" value="images"></string>
+                   <instance class="exe.engine.galleryidevice.GalleryImages">
+                    <dictionary>
+                     <string role="key" value=".listitems"></string>
+                     <list>
+                      <instance class="exe.engine.galleryidevice.GalleryImage">
+                       <dictionary>
+                        <string role="key" value="_caption"></string>
+                        <instance class="exe.engine.field.TextField">
+                         <dictionary>
+                          <string role="key" value="_id"></string>
+                          <int value="207"></int>
+                          <string role="key" value="_idevice"></string>
+                          <none></none>
+                          <string role="key" value="_instruc"></string>
+                          <string value=""></string>
+                          <string role="key" value="_name"></string>
+                          <string value=""></string>
+                          <string role="key" value="content"></string>
+                          <string value=""></string>
+                          <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
+                          <int value="4"></int>
+                         </dictionary>
+                        </instance>
+                        <string role="key" value="_id"></string>
+                        <unicode value="27_85.1"></unicode>
+                        <string role="key" value="_imageResource"></string>
+                        <instance class="exe.engine.resource.Resource" reference="23">
+                         <dictionary>
+                          <string role="key" value="_idevice"></string>
+                          <reference key="20"></reference>
+                          <string role="key" value="_package"></string>
+                          <reference key="1"></reference>
+                          <string role="key" value="_storageName"></string>
+                          <string value="radio_ionico.jpg"></string>
+                          <string role="key" value="_userName"></string>
+                          <string value="c:\\users\\david\\appdata\\local\\temp\\tmpixl7lg\\radio_ionico.jpg"></string>
+                          <string role="key" value="checksum"></string>
+                          <string value="7ba036c43b73fda9a3600a380d10c43b"></string>
+                          <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
+                          <int value="2"></int>
+                          <string role="key" value="exe.engine.resource._Resource.persistenceVersion"></string>
+                          <int value="2"></int>
+                          <string role="key" value="warningMsg"></string>
+                          <string value=""></string>
+                         </dictionary>
+                        </instance>
+                        <string role="key" value="_parent"></string>
+                        <reference key="21"></reference>
+                        <string role="key" value="_thumbnailResource"></string>
+                        <none></none>
+                        <string role="key" value="exe.engine.galleryidevice.GalleryImage.persistenceVersion"></string>
+                        <int value="3"></int>
+                        <string role="key" value="makeThumbnail"></string>
+                        <bool value="0"></bool>
+                       </dictionary>
+                      </instance>
+                     </list>
+                     <string role="key" value="idevice"></string>
+                     <reference key="21"></reference>
+                    </dictionary>
+                   </instance>
+                   <string role="key" value="intlinks_to_anchors"></string>
+                   <dictionary></dictionary>
+                   <string role="key" value="nextImageId"></string>
+                   <int value="2"></int>
+                   <string role="key" value="parentNode"></string>
+                   <reference key="22"></reference>
+                  </dictionary>
+                 </instance>
+                 <string role="key" value="edit"></string>
+                 <bool value="0"></bool>
+                 <string role="key" value="emphasis"></string>
+                 <int value="0"></int>
+                 <string role="key" value="exe.engine.freetextidevice.FreeTextIdevice.persistenceVersion"></string>
+                 <int value="7"></int>
+                 <string role="key" value="icon"></string>
+                 <string value=""></string>
+                 <string role="key" value="id"></string>
+                 <unicode value="27"></unicode>
+                 <string role="key" value="lastIdevice"></string>
+                 <bool value="0"></bool>
+                 <string role="key" value="originalicon"></string>
+                 <string value=""></string>
+                 <string role="key" value="parent"></string>
+                 <none></none>
+                 <string role="key" value="parentNode"></string>
+                 <reference key="22"></reference>
+                 <string role="key" value="systemResources"></string>
+                 <list></list>
+                 <string role="key" value="type"></string>
+                 <none></none>
+                 <string role="key" value="undo"></string>
+                 <bool value="1"></bool>
+                 <string role="key" value="userResources"></string>
+                 <list>
+                  <reference key="23"></reference>
+                 </list>
+                 <string role="key" value="version"></string>
+                 <int value="0"></int>
+                </dictionary>
+               </instance>
+              </list>
+              <string role="key" value="_id"></string>
+              <unicode value="7"></unicode>
+              <string role="key" value="_package"></string>
+              <reference key="1"></reference>
+              <string role="key" value="anchor_fields"></string>
+              <list></list>
+              <string role="key" value="exe.engine.node.Node.persistenceVersion"></string>
+              <int value="2"></int>
+              <string role="key" value="exportType"></string>
+              <string value="singlepage"></string>
+              <string role="key" value="last_full_node_path"></string>
+              <string value="exe-node:Qu%C3%ADmica:Propiedades%20peri%C3%B3dicas%20de%20los%20elementos:Tama%C3%B1o%20at%C3%B3mico:Radio%20i%C3%B3nico"></string>
+              <string role="key" value="parent"></string>
+              <reference key="10"></reference>
+              <string role="key" value="top_anchors_linked_from_fields"></string>
+              <list></list>
+              <string role="key" value="children"></string>
+              <list></list>
+             </dictionary>
+            </instance>
+           </list>
+          </dictionary>
+         </instance>
+         <instance class="exe.engine.node.Node" reference="26">
+          <dictionary>
+           <string role="key" value="_title"></string>
+           <unicode value="Energía de ionización"></unicode>
+           <string role="key" value="idevices"></string>
+           <list>
+            <instance class="exe.engine.freetextidevice.FreeTextIdevice" reference="24">
+             <dictionary>
+              <string role="key" value="_title"></string>
+              <unicode value="Free Text"></unicode>
+              <string role="key" value="_author"></string>
+              <unicode value="University of Auckland"></unicode>
+              <string role="key" value="_purpose"></string>
+              <unicode value="The majority of a learning resource will be 
+establishing context, delivering instructions and providing general information.
+This provides the framework within which the learning activities are built and 
+delivered."></unicode>
+              <string role="key" value="_tip"></string>
+              <string value=""></string>
+              <string role="key" value="childs"></string>
+              <list></list>
+              <string role="key" value="content"></string>
+              <instance class="exe.engine.field.TextAreaField" reference="25">
+               <dictionary>
+                <string role="key" value="_id"></string>
+                <int value="85"></int>
+                <string role="key" value="_idevice"></string>
+                <reference key="24"></reference>
+                <string role="key" value="_instruc"></string>
+                <unicode value="Use this field to enter text. This 
+iDevice has no emphasis applied although limited formatting can be applied to 
+text through the text editing buttons associated with the field."></unicode>
+                <string role="key" value="_name"></string>
+                <unicode value="Free Text"></unicode>
+                <string role="key" value="anchor_names"></string>
+                <list></list>
+                <string role="key" value="anchors_linked_from_fields"></string>
+                <dictionary></dictionary>
+                <string role="key" value="content_w_resourcePaths"></string>
+                <unicode content="true" value="&lt;p&gt;Para estudiar la energía de ionización, visualiza el siguiente video.&lt;/p&gt;
+&lt;figure class=&quot;exe-figure exe-media position-center&quot; style=&quot;width: 900px;&quot;&gt;&lt;iframe width=&quot;900&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/F1u-_vnGo8o&quot; allowfullscreen=&quot;allowfullscreen&quot;&gt;&lt;/iframe&gt;
+&lt;figcaption class=&quot;figcaption&quot;&gt;&lt;span class=&quot;title&quot;&gt;&lt;em&gt;Energía de ionización&lt;/em&gt;&lt;/span&gt;&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;p&gt;&lt;/p&gt;"></unicode>
+                <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
+                <int value="4"></int>
+                <string role="key" value="exe.engine.field.FieldWithResources.persistenceVersion"></string>
+                <int value="2"></int>
+                <string role="key" value="exe.engine.field.TextAreaField.persistenceVersion"></string>
+                <int value="3"></int>
+                <string role="key" value="htmlTag"></string>
+                <string value="div"></string>
+                <string role="key" value="images"></string>
+                <instance class="exe.engine.galleryidevice.GalleryImages">
+                 <dictionary>
+                  <string role="key" value=".listitems"></string>
+                  <list></list>
+                  <string role="key" value="idevice"></string>
+                  <reference key="25"></reference>
+                 </dictionary>
+                </instance>
+                <string role="key" value="intlinks_to_anchors"></string>
+                <dictionary></dictionary>
+                <string role="key" value="nextImageId"></string>
+                <int value="0"></int>
+                <string role="key" value="parentNode"></string>
+                <reference key="26"></reference>
+               </dictionary>
+              </instance>
+              <string role="key" value="edit"></string>
+              <bool value="0"></bool>
+              <string role="key" value="emphasis"></string>
+              <int value="0"></int>
+              <string role="key" value="exe.engine.freetextidevice.FreeTextIdevice.persistenceVersion"></string>
+              <int value="7"></int>
+              <string role="key" value="icon"></string>
+              <string value=""></string>
+              <string role="key" value="id"></string>
+              <unicode value="21"></unicode>
+              <string role="key" value="lastIdevice"></string>
+              <bool value="0"></bool>
+              <string role="key" value="originalicon"></string>
+              <string value=""></string>
+              <string role="key" value="parent"></string>
+              <none></none>
+              <string role="key" value="parentNode"></string>
+              <reference key="26"></reference>
+              <string role="key" value="systemResources"></string>
+              <list></list>
+              <string role="key" value="type"></string>
+              <none></none>
+              <string role="key" value="undo"></string>
+              <bool value="1"></bool>
+              <string role="key" value="userResources"></string>
+              <list></list>
+              <string role="key" value="version"></string>
+              <int value="0"></int>
+             </dictionary>
+            </instance>
+           </list>
+           <string role="key" value="_id"></string>
+           <unicode value="8"></unicode>
+           <string role="key" value="_package"></string>
+           <reference key="1"></reference>
+           <string role="key" value="anchor_fields"></string>
+           <list></list>
+           <string role="key" value="exe.engine.node.Node.persistenceVersion"></string>
+           <int value="2"></int>
+           <string role="key" value="exportType"></string>
+           <string value="singlepage"></string>
+           <string role="key" value="last_full_node_path"></string>
+           <string value="exe-node:Qu%C3%ADmica:Propiedades%20peri%C3%B3dicas%20de%20los%20elementos:Energ%C3%ADa%20de%20ionizaci%C3%B3n"></string>
+           <string role="key" value="parent"></string>
+           <reference key="7"></reference>
+           <string role="key" value="top_anchors_linked_from_fields"></string>
+           <list></list>
+           <string role="key" value="children"></string>
+           <list></list>
+          </dictionary>
+         </instance>
+         <instance class="exe.engine.node.Node" reference="29">
+          <dictionary>
+           <string role="key" value="_title"></string>
+           <unicode value="Afinidad electrónica"></unicode>
+           <string role="key" value="idevices"></string>
+           <list>
+            <instance class="exe.engine.freetextidevice.FreeTextIdevice" reference="27">
+             <dictionary>
+              <string role="key" value="_title"></string>
+              <unicode value="Free Text"></unicode>
+              <string role="key" value="_author"></string>
+              <unicode value="University of Auckland"></unicode>
+              <string role="key" value="_purpose"></string>
+              <unicode value="The majority of a learning resource will be 
+establishing context, delivering instructions and providing general information.
+This provides the framework within which the learning activities are built and 
+delivered."></unicode>
+              <string role="key" value="_tip"></string>
+              <string value=""></string>
+              <string role="key" value="childs"></string>
+              <list></list>
+              <string role="key" value="content"></string>
+              <instance class="exe.engine.field.TextAreaField" reference="28">
+               <dictionary>
+                <string role="key" value="_id"></string>
+                <int value="85"></int>
+                <string role="key" value="_idevice"></string>
+                <reference key="27"></reference>
+                <string role="key" value="_instruc"></string>
+                <unicode value="Use this field to enter text. This 
+iDevice has no emphasis applied although limited formatting can be applied to 
+text through the text editing buttons associated with the field."></unicode>
+                <string role="key" value="_name"></string>
+                <unicode value="Free Text"></unicode>
+                <string role="key" value="anchor_names"></string>
+                <list></list>
+                <string role="key" value="anchors_linked_from_fields"></string>
+                <dictionary></dictionary>
+                <string role="key" value="content_w_resourcePaths"></string>
+                <unicode content="true" value="&lt;p&gt;Para estudiar la afinidad electrónica, visualiza el siguiente video.&lt;/p&gt;
+&lt;figure class=&quot;exe-figure exe-media position-center&quot; style=&quot;width: 560px;&quot;&gt;&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/7neXNRMIhWU&quot; allowfullscreen=&quot;allowfullscreen&quot; data-mce-fragment=&quot;1&quot;&gt;&lt;/iframe&gt;
+&lt;figcaption class=&quot;figcaption&quot;&gt;&lt;span class=&quot;title&quot;&gt;&lt;em&gt;Afinidad electrónica&lt;/em&gt;&lt;/span&gt;&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;p&gt;&lt;/p&gt;"></unicode>
+                <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
+                <int value="4"></int>
+                <string role="key" value="exe.engine.field.FieldWithResources.persistenceVersion"></string>
+                <int value="2"></int>
+                <string role="key" value="exe.engine.field.TextAreaField.persistenceVersion"></string>
+                <int value="3"></int>
+                <string role="key" value="htmlTag"></string>
+                <string value="div"></string>
+                <string role="key" value="images"></string>
+                <instance class="exe.engine.galleryidevice.GalleryImages">
+                 <dictionary>
+                  <string role="key" value=".listitems"></string>
+                  <list></list>
+                  <string role="key" value="idevice"></string>
+                  <reference key="28"></reference>
+                 </dictionary>
+                </instance>
+                <string role="key" value="intlinks_to_anchors"></string>
+                <dictionary></dictionary>
+                <string role="key" value="nextImageId"></string>
+                <int value="0"></int>
+                <string role="key" value="parentNode"></string>
+                <reference key="29"></reference>
+               </dictionary>
+              </instance>
+              <string role="key" value="edit"></string>
+              <bool value="0"></bool>
+              <string role="key" value="emphasis"></string>
+              <int value="0"></int>
+              <string role="key" value="exe.engine.freetextidevice.FreeTextIdevice.persistenceVersion"></string>
+              <int value="7"></int>
+              <string role="key" value="icon"></string>
+              <string value=""></string>
+              <string role="key" value="id"></string>
+              <unicode value="25"></unicode>
+              <string role="key" value="lastIdevice"></string>
+              <bool value="0"></bool>
+              <string role="key" value="originalicon"></string>
+              <string value=""></string>
+              <string role="key" value="parent"></string>
+              <none></none>
+              <string role="key" value="parentNode"></string>
+              <reference key="29"></reference>
+              <string role="key" value="systemResources"></string>
+              <list></list>
+              <string role="key" value="type"></string>
+              <none></none>
+              <string role="key" value="undo"></string>
+              <bool value="1"></bool>
+              <string role="key" value="userResources"></string>
+              <list></list>
+              <string role="key" value="version"></string>
+              <int value="0"></int>
+             </dictionary>
+            </instance>
+           </list>
+           <string role="key" value="_id"></string>
+           <unicode value="9"></unicode>
+           <string role="key" value="_package"></string>
+           <reference key="1"></reference>
+           <string role="key" value="anchor_fields"></string>
+           <list></list>
+           <string role="key" value="exe.engine.node.Node.persistenceVersion"></string>
+           <int value="2"></int>
+           <string role="key" value="exportType"></string>
+           <string value="singlepage"></string>
+           <string role="key" value="last_full_node_path"></string>
+           <string value="exe-node:Qu%C3%ADmica:Propiedades%20peri%C3%B3dicas%20de%20los%20elementos:Afinidad%20electr%C3%B3nica"></string>
+           <string role="key" value="parent"></string>
+           <reference key="7"></reference>
+           <string role="key" value="top_anchors_linked_from_fields"></string>
+           <list></list>
+           <string role="key" value="children"></string>
+           <list></list>
+          </dictionary>
+         </instance>
+         <instance class="exe.engine.node.Node" reference="32">
+          <dictionary>
+           <string role="key" value="_title"></string>
+           <unicode value="Electronegatividad"></unicode>
+           <string role="key" value="idevices"></string>
+           <list>
+            <instance class="exe.engine.freetextidevice.FreeTextIdevice" reference="30">
+             <dictionary>
+              <string role="key" value="_title"></string>
+              <unicode value="Free Text"></unicode>
+              <string role="key" value="_author"></string>
+              <unicode value="University of Auckland"></unicode>
+              <string role="key" value="_purpose"></string>
+              <unicode value="The majority of a learning resource will be 
+establishing context, delivering instructions and providing general information.
+This provides the framework within which the learning activities are built and 
+delivered."></unicode>
+              <string role="key" value="_tip"></string>
+              <string value=""></string>
+              <string role="key" value="childs"></string>
+              <list></list>
+              <string role="key" value="content"></string>
+              <instance class="exe.engine.field.TextAreaField" reference="31">
+               <dictionary>
+                <string role="key" value="_id"></string>
+                <int value="85"></int>
+                <string role="key" value="_idevice"></string>
+                <reference key="30"></reference>
+                <string role="key" value="_instruc"></string>
+                <unicode value="Use this field to enter text. This 
+iDevice has no emphasis applied although limited formatting can be applied to 
+text through the text editing buttons associated with the field."></unicode>
+                <string role="key" value="_name"></string>
+                <unicode value="Free Text"></unicode>
+                <string role="key" value="anchor_names"></string>
+                <list></list>
+                <string role="key" value="anchors_linked_from_fields"></string>
+                <dictionary></dictionary>
+                <string role="key" value="content_w_resourcePaths"></string>
+                <unicode content="true" value="&lt;p&gt;Para estudiar la electronegatividad, visualiza el siguiente video.&lt;/p&gt;
+&lt;figure class=&quot;exe-figure exe-media position-center&quot; style=&quot;width: 560px;&quot;&gt;
+&lt;figcaption class=&quot;figcaption header&quot;&gt;&lt;strong&gt;Electronegatividad&lt;/strong&gt;&lt;/figcaption&gt;
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/SksNXasRax8&quot; allowfullscreen=&quot;allowfullscreen&quot; data-mce-fragment=&quot;1&quot;&gt;&lt;/iframe&gt;&lt;/figure&gt;
+&lt;p&gt;&lt;/p&gt;"></unicode>
+                <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
+                <int value="4"></int>
+                <string role="key" value="exe.engine.field.FieldWithResources.persistenceVersion"></string>
+                <int value="2"></int>
+                <string role="key" value="exe.engine.field.TextAreaField.persistenceVersion"></string>
+                <int value="3"></int>
+                <string role="key" value="htmlTag"></string>
+                <string value="div"></string>
+                <string role="key" value="images"></string>
+                <instance class="exe.engine.galleryidevice.GalleryImages">
+                 <dictionary>
+                  <string role="key" value=".listitems"></string>
+                  <list></list>
+                  <string role="key" value="idevice"></string>
+                  <reference key="31"></reference>
+                 </dictionary>
+                </instance>
+                <string role="key" value="intlinks_to_anchors"></string>
+                <dictionary></dictionary>
+                <string role="key" value="nextImageId"></string>
+                <int value="0"></int>
+                <string role="key" value="parentNode"></string>
+                <reference key="32"></reference>
+               </dictionary>
+              </instance>
+              <string role="key" value="edit"></string>
+              <bool value="0"></bool>
+              <string role="key" value="emphasis"></string>
+              <int value="0"></int>
+              <string role="key" value="exe.engine.freetextidevice.FreeTextIdevice.persistenceVersion"></string>
+              <int value="7"></int>
+              <string role="key" value="icon"></string>
+              <string value=""></string>
+              <string role="key" value="id"></string>
+              <unicode value="26"></unicode>
+              <string role="key" value="lastIdevice"></string>
+              <bool value="0"></bool>
+              <string role="key" value="originalicon"></string>
+              <string value=""></string>
+              <string role="key" value="parent"></string>
+              <none></none>
+              <string role="key" value="parentNode"></string>
+              <reference key="32"></reference>
+              <string role="key" value="systemResources"></string>
+              <list></list>
+              <string role="key" value="type"></string>
+              <none></none>
+              <string role="key" value="undo"></string>
+              <bool value="1"></bool>
+              <string role="key" value="userResources"></string>
+              <list></list>
+              <string role="key" value="version"></string>
+              <int value="0"></int>
+             </dictionary>
+            </instance>
+           </list>
+           <string role="key" value="_id"></string>
+           <unicode value="10"></unicode>
+           <string role="key" value="_package"></string>
+           <reference key="1"></reference>
+           <string role="key" value="anchor_fields"></string>
+           <list></list>
+           <string role="key" value="exe.engine.node.Node.persistenceVersion"></string>
+           <int value="2"></int>
+           <string role="key" value="exportType"></string>
+           <string value="singlepage"></string>
+           <string role="key" value="last_full_node_path"></string>
+           <string value="exe-node:Qu%C3%ADmica:Propiedades%20peri%C3%B3dicas%20de%20los%20elementos:Electronegatividad"></string>
+           <string role="key" value="parent"></string>
+           <reference key="7"></reference>
+           <string role="key" value="top_anchors_linked_from_fields"></string>
+           <list></list>
+           <string role="key" value="children"></string>
+           <list></list>
+          </dictionary>
+         </instance>
+        </list>
+       </dictionary>
+      </instance>
+      <instance class="exe.engine.node.Node" reference="33">
+       <dictionary>
+        <string role="key" value="_title"></string>
+        <unicode value="Otros temas"></unicode>
+        <string role="key" value="idevices"></string>
+        <list></list>
+        <string role="key" value="_id"></string>
+        <unicode value="4"></unicode>
+        <string role="key" value="_package"></string>
+        <reference key="1"></reference>
+        <string role="key" value="anchor_fields"></string>
+        <list></list>
+        <string role="key" value="exe.engine.node.Node.persistenceVersion"></string>
+        <int value="2"></int>
+        <string role="key" value="exportType"></string>
+        <string value="singlepage"></string>
+        <string role="key" value="last_full_node_path"></string>
+        <string value="exe-node:Qu%C3%ADmica:Otros%20temas"></string>
+        <string role="key" value="parent"></string>
+        <reference key="2"></reference>
+        <string role="key" value="top_anchors_linked_from_fields"></string>
+        <list></list>
+        <string role="key" value="children"></string>
+        <list></list>
+       </dictionary>
+      </instance>
+     </list>
+    </dictionary>
+   </instance>
+   <unicode role="key" value="1"></unicode>
+   <reference key="7"></reference>
+   <unicode role="key" value="10"></unicode>
+   <reference key="32"></reference>
+   <unicode role="key" value="2"></unicode>
+   <reference key="10"></reference>
+   <unicode role="key" value="4"></unicode>
+   <reference key="33"></reference>
+   <unicode role="key" value="5"></unicode>
+   <reference key="5"></reference>
+   <unicode role="key" value="7"></unicode>
+   <reference key="22"></reference>
+   <unicode role="key" value="8"></unicode>
+   <reference key="26"></reference>
+   <unicode role="key" value="9"></unicode>
+   <reference key="29"></reference>
+  </dictionary>
+  <string role="key" value="_objectives"></string>
+  <unicode value=""></unicode>
+  <string role="key" value="_preknowledge"></string>
+  <unicode value=""></unicode>
+  <string role="key" value="_templateFile"></string>
+  <string value="Base"></string>
+  <string role="key" value="backgroundImgTile"></string>
+  <bool value="0"></bool>
+  <string role="key" value="currentNode"></string>
+  <reference key="2"></reference>
+  <string role="key" value="dublinCore"></string>
+  <instance class="exe.engine.package.DublinCore">
+   <dictionary>
+    <string role="key" value="contributors"></string>
+    <unicode value=""></unicode>
+    <string role="key" value="coverage"></string>
+    <unicode value=""></unicode>
+    <string role="key" value="creator"></string>
+    <unicode value="David Roibal"></unicode>
+    <string role="key" value="date"></string>
+    <unicode value=""></unicode>
+    <string role="key" value="description"></string>
+    <unicode value="Tema de propiedades periódicas de 2º de bachillerato"></unicode>
+    <string role="key" value="format"></string>
+    <unicode value=""></unicode>
+    <string role="key" value="identifier"></string>
+    <unicode value="4a7d755e-34a5-410a-a7d4-601881136623"></unicode>
+    <string role="key" value="language"></string>
+    <unicode value="es"></unicode>
+    <string role="key" value="publisher"></string>
+    <unicode value=""></unicode>
+    <string role="key" value="relation"></string>
+    <unicode value=""></unicode>
+    <string role="key" value="rights"></string>
+    <unicode value=""></unicode>
+    <string role="key" value="source"></string>
+    <unicode value=""></unicode>
+    <string role="key" value="subject"></string>
+    <unicode value=""></unicode>
+    <string role="key" value="title"></string>
+    <unicode value="Propiedades periodicas"></unicode>
+    <string role="key" value="type"></string>
+    <unicode value=""></unicode>
+   </dictionary>
+  </instance>
+  <string role="key" value="exe.engine.package.Package.persistenceVersion"></string>
+  <int value="16"></int>
+  <string role="key" value="exportMetadataType"></string>
+  <string value="LOMES"></string>
+  <string role="key" value="exportSource"></string>
+  <bool value="1"></bool>
+  <string role="key" value="footer"></string>
+  <string value=""></string>
+  <string role="key" value="isLoading"></string>
+  <bool value="0"></bool>
+  <string role="key" value="license"></string>
+  <unicode value="creative commons: attribution - share alike 4.0"></unicode>
+  <string role="key" value="lom"></string>
+  <instance class="exe.engine.lom.lomsubs.lomSub">
+   <dictionary>
+    <string role="key" value="__index__"></string>
+    <dictionary></dictionary>
+    <string role="key" value="__oldchild__"></string>
+    <none></none>
+    <string role="key" value="annotation"></string>
+    <list></list>
+    <string role="key" value="classification"></string>
+    <list></list>
+    <string role="key" value="educational"></string>
+    <list>
+     <instance class="exe.engine.lom.lomsubs.educationalSub">
+      <dictionary>
+       <string role="key" value="cognitiveProcess"></string>
+       <list></list>
+       <string role="key" value="context"></string>
+       <list></list>
+       <string role="key" value="description"></string>
+       <list></list>
+       <string role="key" value="difficulty"></string>
+       <none></none>
+       <string role="key" value="intendedEndUserRole"></string>
+       <list></list>
+       <string role="key" value="interactivityLevel"></string>
+       <none></none>
+       <string role="key" value="interactivityType"></string>
+       <none></none>
+       <string role="key" value="language"></string>
+       <list>
+        <instance class="exe.engine.lom.lomsubs.LanguageIdSub">
+         <dictionary>
+          <string role="key" value="extensiontype_"></string>
+          <none></none>
+          <string role="key" value="valueOf_"></string>
+          <string value="es"></string>
+         </dictionary>
+        </instance>
+       </list>
+       <string role="key" value="learningResourceType"></string>
+       <list></list>
+       <string role="key" value="semanticDensity"></string>
+       <none></none>
+       <string role="key" value="typicalAgeRange"></string>
+       <list></list>
+       <string role="key" value="typicalLearningTime"></string>
+       <none></none>
+      </dictionary>
+     </instance>
+    </list>
+    <string role="key" value="general"></string>
+    <instance class="exe.engine.lom.lomsubs.generalSub">
+     <dictionary>
+      <string role="key" value="aggregationLevel"></string>
+      <instance class="exe.engine.lom.lomsubs.aggregationLevelSub">
+       <dictionary>
+        <string role="key" value="extensiontype_"></string>
+        <none></none>
+        <string role="key" value="source"></string>
+        <instance class="exe.engine.lom.lomsubs.sourceValueSub">
+         <dictionary>
+          <string role="key" value="extensiontype_"></string>
+          <none></none>
+          <string role="key" value="string"></string>
+          <list></list>
+          <string role="key" value="uniqueElementName"></string>
+          <string value="source"></string>
+          <string role="key" value="valueOf_"></string>
+          <string value="LOMv1.0"></string>
+         </dictionary>
+        </instance>
+        <string role="key" value="uniqueElementName"></string>
+        <string value="aggregationLevel"></string>
+        <string role="key" value="value"></string>
+        <instance class="exe.engine.lom.lomsubs.aggregationLevelValueSub">
+         <dictionary>
+          <string role="key" value="extensiontype_"></string>
+          <none></none>
+          <string role="key" value="source"></string>
+          <none></none>
+          <string role="key" value="uniqueElementName"></string>
+          <string value="value"></string>
+          <string role="key" value="value"></string>
+          <none></none>
+          <string role="key" value="valueOf_"></string>
+          <string value="2"></string>
+         </dictionary>
+        </instance>
+       </dictionary>
+      </instance>
+      <string role="key" value="coverage"></string>
+      <list></list>
+      <string role="key" value="description"></string>
+      <list>
+       <instance class="exe.engine.lom.lomsubs.descriptionSub">
+        <dictionary>
+         <string role="key" value="extensiontype_"></string>
+         <none></none>
+         <string role="key" value="string"></string>
+         <list>
+          <instance class="exe.engine.lom.lomsubs.LangStringSub">
+           <dictionary>
+            <string role="key" value="language"></string>
+            <string value="es"></string>
+            <string role="key" value="valueOf_"></string>
+            <string value="Tema de propiedades peri\xc3\xb3dicas de 2\xc2\xba de bachillerato"></string>
+           </dictionary>
+          </instance>
+         </list>
+        </dictionary>
+       </instance>
+      </list>
+      <string role="key" value="identifier"></string>
+      <list>
+       <instance class="exe.engine.lom.lomsubs.identifierSub">
+        <dictionary>
+         <string role="key" value="catalog"></string>
+         <instance class="exe.engine.lom.lomsubs.catalogSub">
+          <dictionary>
+           <string role="key" value="uniqueElementName"></string>
+           <string value="catalog"></string>
+           <string role="key" value="valueOf_"></string>
+           <unicode value="My Catalog"></unicode>
+          </dictionary>
+         </instance>
+         <string role="key" value="entry"></string>
+         <instance class="exe.engine.lom.lomsubs.entrySub">
+          <dictionary>
+           <string role="key" value="uniqueElementName"></string>
+           <string value="entry"></string>
+           <string role="key" value="valueOf_"></string>
+           <unicode value="4a7d755e-34a5-410a-a7d4-601881136623"></unicode>
+          </dictionary>
+         </instance>
+        </dictionary>
+       </instance>
+      </list>
+      <string role="key" value="keyword"></string>
+      <list></list>
+      <string role="key" value="language"></string>
+      <list>
+       <instance class="exe.engine.lom.lomsubs.LanguageIdSub">
+        <dictionary>
+         <string role="key" value="extensiontype_"></string>
+         <none></none>
+         <string role="key" value="valueOf_"></string>
+         <string value="es"></string>
+        </dictionary>
+       </instance>
+      </list>
+      <string role="key" value="structure"></string>
+      <none></none>
+      <string role="key" value="title"></string>
+      <instance class="exe.engine.lom.lomsubs.titleSub">
+       <dictionary>
+        <string role="key" value="extensiontype_"></string>
+        <none></none>
+        <string role="key" value="string"></string>
+        <list>
+         <instance class="exe.engine.lom.lomsubs.LangStringSub">
+          <dictionary>
+           <string role="key" value="language"></string>
+           <string value="es"></string>
+           <string role="key" value="valueOf_"></string>
+           <string value="Propiedades periodicas"></string>
+          </dictionary>
+         </instance>
+        </list>
+        <string role="key" value="uniqueElementName"></string>
+        <none></none>
+       </dictionary>
+      </instance>
+      <string role="key" value="uniqueElementName"></string>
+      <string value="general"></string>
+     </dictionary>
+    </instance>
+    <string role="key" value="lifeCycle"></string>
+    <instance class="exe.engine.lom.lomsubs.lifeCycleSub">
+     <dictionary>
+      <string role="key" value="contribute"></string>
+      <list>
+       <instance class="exe.engine.lom.lomsubs.contributeSub">
+        <dictionary>
+         <string role="key" value="date"></string>
+         <instance class="exe.engine.lom.lomsubs.dateSub" reference="34">
+          <dictionary>
+           <string role="key" value="dateTime"></string>
+           <instance class="exe.engine.lom.lomsubs.DateTimeValueSub">
+            <dictionary>
+             <string role="key" value="uniqueElementName"></string>
+             <string value="dateTime"></string>
+             <string role="key" value="valueOf_"></string>
+             <string value="2020-08-28T19:19:09.00+02:00"></string>
+            </dictionary>
+           </instance>
+           <string role="key" value="description"></string>
+           <instance class="exe.engine.lom.lomsubs.LanguageStringSub">
+            <dictionary>
+             <string role="key" value="extensiontype_"></string>
+             <none></none>
+             <string role="key" value="string"></string>
+             <list>
+              <instance class="exe.engine.lom.lomsubs.LangStringSub">
+               <dictionary>
+                <string role="key" value="language"></string>
+                <string value="es"></string>
+                <string role="key" value="valueOf_"></string>
+                <string value="Fecha de creaci\xc3\xb3n de los metadatos"></string>
+               </dictionary>
+              </instance>
+             </list>
+            </dictionary>
+           </instance>
+           <string role="key" value="extensiontype_"></string>
+           <none></none>
+           <string role="key" value="uniqueElementName"></string>
+           <none></none>
+           <string role="key" value="valueOf_"></string>
+           <none></none>
+          </dictionary>
+         </instance>
+         <string role="key" value="entity"></string>
+         <list>
+          <instance class="exe.engine.lom.lomsubs.entitySub" reference="35">
+           <dictionary>
+            <string role="key" value="extensiontype_"></string>
+            <none></none>
+            <string role="key" value="valueOf_"></string>
+            <string value="BEGIN:VCARD VERSION:3.0 FN:David Roibal EMAIL;TYPE=INTERNET: ORG: END:VCARD"></string>
+           </dictionary>
+          </instance>
+         </list>
+         <string role="key" value="role"></string>
+         <instance class="exe.engine.lom.lomsubs.roleSub">
+          <dictionary>
+           <string role="key" value="extensiontype_"></string>
+           <none></none>
+           <string role="key" value="source"></string>
+           <instance class="exe.engine.lom.lomsubs.sourceValueSub" reference="36">
+            <dictionary>
+             <string role="key" value="extensiontype_"></string>
+             <none></none>
+             <string role="key" value="string"></string>
+             <list></list>
+             <string role="key" value="uniqueElementName"></string>
+             <string value="source"></string>
+             <string role="key" value="valueOf_"></string>
+             <string value="LOMv1.0"></string>
+            </dictionary>
+           </instance>
+           <string role="key" value="uniqueElementName"></string>
+           <string value="role"></string>
+           <string role="key" value="value"></string>
+           <instance class="exe.engine.lom.lomsubs.roleValueSub">
+            <dictionary>
+             <string role="key" value="extensiontype_"></string>
+             <none></none>
+             <string role="key" value="source"></string>
+             <none></none>
+             <string role="key" value="uniqueElementName"></string>
+             <string value="value"></string>
+             <string role="key" value="value"></string>
+             <none></none>
+             <string role="key" value="valueOf_"></string>
+             <string value="author"></string>
+            </dictionary>
+           </instance>
+          </dictionary>
+         </instance>
+        </dictionary>
+       </instance>
+      </list>
+      <string role="key" value="status"></string>
+      <none></none>
+      <string role="key" value="uniqueElementName"></string>
+      <none></none>
+      <string role="key" value="version"></string>
+      <none></none>
+     </dictionary>
+    </instance>
+    <string role="key" value="metaMetadata"></string>
+    <instance class="exe.engine.lom.lomsubs.metaMetadataSub">
+     <dictionary>
+      <string role="key" value="contribute"></string>
+      <list>
+       <instance class="exe.engine.lom.lomsubs.contributeMetaSub">
+        <dictionary>
+         <string role="key" value="date"></string>
+         <reference key="34"></reference>
+         <string role="key" value="entity"></string>
+         <list>
+          <reference key="35"></reference>
+         </list>
+         <string role="key" value="role"></string>
+         <instance class="exe.engine.lom.lomsubs.roleSub">
+          <dictionary>
+           <string role="key" value="extensiontype_"></string>
+           <none></none>
+           <string role="key" value="source"></string>
+           <reference key="36"></reference>
+           <string role="key" value="uniqueElementName"></string>
+           <string value="role"></string>
+           <string role="key" value="value"></string>
+           <instance class="exe.engine.lom.lomsubs.roleValueSub">
+            <dictionary>
+             <string role="key" value="extensiontype_"></string>
+             <none></none>
+             <string role="key" value="source"></string>
+             <none></none>
+             <string role="key" value="uniqueElementName"></string>
+             <string value="value"></string>
+             <string role="key" value="value"></string>
+             <none></none>
+             <string role="key" value="valueOf_"></string>
+             <string value="creator"></string>
+            </dictionary>
+           </instance>
+          </dictionary>
+         </instance>
+        </dictionary>
+       </instance>
+      </list>
+      <string role="key" value="identifier"></string>
+      <list></list>
+      <string role="key" value="language"></string>
+      <instance class="exe.engine.lom.lomsubs.LanguageIdSub">
+       <dictionary>
+        <string role="key" value="extensiontype_"></string>
+        <none></none>
+        <string role="key" value="valueOf_"></string>
+        <string value="es"></string>
+       </dictionary>
+      </instance>
+      <string role="key" value="metadataSchema"></string>
+      <list>
+       <instance class="exe.engine.lom.lomsubs.metadataSchemaSub">
+        <dictionary>
+         <string role="key" value="valueOf_"></string>
+         <string value="LOMv1.0"></string>
+        </dictionary>
+       </instance>
+      </list>
+      <string role="key" value="uniqueElementName"></string>
+      <string value="metaMetadata"></string>
+     </dictionary>
+    </instance>
+    <string role="key" value="relation"></string>
+    <list></list>
+    <string role="key" value="rights"></string>
+    <instance class="exe.engine.lom.lomsubs.rightsSub">
+     <dictionary>
+      <string role="key" value="access"></string>
+      <none></none>
+      <string role="key" value="copyrightAndOtherRestrictions"></string>
+      <instance class="exe.engine.lom.lomsubs.copyrightAndOtherRestrictionsSub">
+       <dictionary>
+        <string role="key" value="extensiontype_"></string>
+        <none></none>
+        <string role="key" value="source"></string>
+        <instance class="exe.engine.lom.lomsubs.sourceValueSub">
+         <dictionary>
+          <string role="key" value="extensiontype_"></string>
+          <none></none>
+          <string role="key" value="string"></string>
+          <list></list>
+          <string role="key" value="uniqueElementName"></string>
+          <string value="source"></string>
+          <string role="key" value="valueOf_"></string>
+          <string value="LOMv1.0"></string>
+         </dictionary>
+        </instance>
+        <string role="key" value="uniqueElementName"></string>
+        <string value="copyrightAndOtherRestrictions"></string>
+        <string role="key" value="value"></string>
+        <instance class="exe.engine.lom.lomsubs.copyrightAndOtherRestrictionsValueSub">
+         <dictionary>
+          <string role="key" value="extensiontype_"></string>
+          <none></none>
+          <string role="key" value="source"></string>
+          <none></none>
+          <string role="key" value="uniqueElementName"></string>
+          <string value="value"></string>
+          <string role="key" value="value"></string>
+          <none></none>
+          <string role="key" value="valueOf_"></string>
+          <string value="yes"></string>
+         </dictionary>
+        </instance>
+       </dictionary>
+      </instance>
+      <string role="key" value="cost"></string>
+      <none></none>
+      <string role="key" value="description"></string>
+      <none></none>
+      <string role="key" value="uniqueElementName"></string>
+      <none></none>
+     </dictionary>
+    </instance>
+    <string role="key" value="technical"></string>
+    <none></none>
+   </dictionary>
+  </instance>
+  <string role="key" value="lomEs"></string>
+  <instance class="exe.engine.lom.lomsubs.lomSub">
+   <dictionary>
+    <string role="key" value="__index__"></string>
+    <dictionary></dictionary>
+    <string role="key" value="__oldchild__"></string>
+    <none></none>
+    <string role="key" value="annotation"></string>
+    <list></list>
+    <string role="key" value="classification"></string>
+    <list></list>
+    <string role="key" value="educational"></string>
+    <list>
+     <instance class="exe.engine.lom.lomsubs.educationalSub">
+      <dictionary>
+       <string role="key" value="cognitiveProcess"></string>
+       <list></list>
+       <string role="key" value="context"></string>
+       <list></list>
+       <string role="key" value="description"></string>
+       <list></list>
+       <string role="key" value="difficulty"></string>
+       <none></none>
+       <string role="key" value="intendedEndUserRole"></string>
+       <list></list>
+       <string role="key" value="interactivityLevel"></string>
+       <none></none>
+       <string role="key" value="interactivityType"></string>
+       <none></none>
+       <string role="key" value="language"></string>
+       <list>
+        <instance class="exe.engine.lom.lomsubs.LanguageIdSub">
+         <dictionary>
+          <string role="key" value="extensiontype_"></string>
+          <none></none>
+          <string role="key" value="valueOf_"></string>
+          <string value="es"></string>
+         </dictionary>
+        </instance>
+       </list>
+       <string role="key" value="learningResourceType"></string>
+       <list></list>
+       <string role="key" value="semanticDensity"></string>
+       <none></none>
+       <string role="key" value="typicalAgeRange"></string>
+       <list></list>
+       <string role="key" value="typicalLearningTime"></string>
+       <none></none>
+      </dictionary>
+     </instance>
+    </list>
+    <string role="key" value="general"></string>
+    <instance class="exe.engine.lom.lomsubs.generalSub">
+     <dictionary>
+      <string role="key" value="aggregationLevel"></string>
+      <instance class="exe.engine.lom.lomsubs.aggregationLevelSub">
+       <dictionary>
+        <string role="key" value="extensiontype_"></string>
+        <none></none>
+        <string role="key" value="source"></string>
+        <instance class="exe.engine.lom.lomsubs.sourceValueSub">
+         <dictionary>
+          <string role="key" value="extensiontype_"></string>
+          <none></none>
+          <string role="key" value="string"></string>
+          <list></list>
+          <string role="key" value="uniqueElementName"></string>
+          <string value="source"></string>
+          <string role="key" value="valueOf_"></string>
+          <string value="LOM-ESv1.0"></string>
+         </dictionary>
+        </instance>
+        <string role="key" value="uniqueElementName"></string>
+        <string value="aggregationLevel"></string>
+        <string role="key" value="value"></string>
+        <instance class="exe.engine.lom.lomsubs.aggregationLevelValueSub">
+         <dictionary>
+          <string role="key" value="extensiontype_"></string>
+          <none></none>
+          <string role="key" value="source"></string>
+          <none></none>
+          <string role="key" value="uniqueElementName"></string>
+          <string value="value"></string>
+          <string role="key" value="value"></string>
+          <none></none>
+          <string role="key" value="valueOf_"></string>
+          <string value="2"></string>
+         </dictionary>
+        </instance>
+       </dictionary>
+      </instance>
+      <string role="key" value="coverage"></string>
+      <list></list>
+      <string role="key" value="description"></string>
+      <list>
+       <instance class="exe.engine.lom.lomsubs.descriptionSub">
+        <dictionary>
+         <string role="key" value="extensiontype_"></string>
+         <none></none>
+         <string role="key" value="string"></string>
+         <list>
+          <instance class="exe.engine.lom.lomsubs.LangStringSub">
+           <dictionary>
+            <string role="key" value="language"></string>
+            <string value="es"></string>
+            <string role="key" value="valueOf_"></string>
+            <string value="Tema de propiedades peri\xc3\xb3dicas de 2\xc2\xba de bachillerato"></string>
+           </dictionary>
+          </instance>
+         </list>
+        </dictionary>
+       </instance>
+      </list>
+      <string role="key" value="identifier"></string>
+      <list>
+       <instance class="exe.engine.lom.lomsubs.identifierSub">
+        <dictionary>
+         <string role="key" value="catalog"></string>
+         <instance class="exe.engine.lom.lomsubs.catalogSub">
+          <dictionary>
+           <string role="key" value="uniqueElementName"></string>
+           <string value="catalog"></string>
+           <string role="key" value="valueOf_"></string>
+           <unicode value="My Catalog"></unicode>
+          </dictionary>
+         </instance>
+         <string role="key" value="entry"></string>
+         <instance class="exe.engine.lom.lomsubs.entrySub">
+          <dictionary>
+           <string role="key" value="uniqueElementName"></string>
+           <string value="entry"></string>
+           <string role="key" value="valueOf_"></string>
+           <unicode value="4a7d755e-34a5-410a-a7d4-601881136623"></unicode>
+          </dictionary>
+         </instance>
+        </dictionary>
+       </instance>
+      </list>
+      <string role="key" value="keyword"></string>
+      <list></list>
+      <string role="key" value="language"></string>
+      <list>
+       <instance class="exe.engine.lom.lomsubs.LanguageIdSub">
+        <dictionary>
+         <string role="key" value="extensiontype_"></string>
+         <none></none>
+         <string role="key" value="valueOf_"></string>
+         <string value="es"></string>
+        </dictionary>
+       </instance>
+      </list>
+      <string role="key" value="structure"></string>
+      <none></none>
+      <string role="key" value="title"></string>
+      <instance class="exe.engine.lom.lomsubs.titleSub">
+       <dictionary>
+        <string role="key" value="extensiontype_"></string>
+        <none></none>
+        <string role="key" value="string"></string>
+        <list>
+         <instance class="exe.engine.lom.lomsubs.LangStringSub">
+          <dictionary>
+           <string role="key" value="language"></string>
+           <string value="es"></string>
+           <string role="key" value="valueOf_"></string>
+           <string value="Propiedades periodicas"></string>
+          </dictionary>
+         </instance>
+        </list>
+        <string role="key" value="uniqueElementName"></string>
+        <none></none>
+       </dictionary>
+      </instance>
+      <string role="key" value="uniqueElementName"></string>
+      <string value="general"></string>
+     </dictionary>
+    </instance>
+    <string role="key" value="lifeCycle"></string>
+    <instance class="exe.engine.lom.lomsubs.lifeCycleSub">
+     <dictionary>
+      <string role="key" value="contribute"></string>
+      <list>
+       <instance class="exe.engine.lom.lomsubs.contributeSub">
+        <dictionary>
+         <string role="key" value="date"></string>
+         <instance class="exe.engine.lom.lomsubs.dateSub" reference="37">
+          <dictionary>
+           <string role="key" value="dateTime"></string>
+           <instance class="exe.engine.lom.lomsubs.DateTimeValueSub">
+            <dictionary>
+             <string role="key" value="uniqueElementName"></string>
+             <string value="dateTime"></string>
+             <string role="key" value="valueOf_"></string>
+             <string value="2020-08-28T19:19:09.00+02:00"></string>
+            </dictionary>
+           </instance>
+           <string role="key" value="description"></string>
+           <instance class="exe.engine.lom.lomsubs.LanguageStringSub">
+            <dictionary>
+             <string role="key" value="extensiontype_"></string>
+             <none></none>
+             <string role="key" value="string"></string>
+             <list>
+              <instance class="exe.engine.lom.lomsubs.LangStringSub">
+               <dictionary>
+                <string role="key" value="language"></string>
+                <string value="es"></string>
+                <string role="key" value="valueOf_"></string>
+                <string value="Fecha de creaci\xc3\xb3n de los metadatos"></string>
+               </dictionary>
+              </instance>
+             </list>
+            </dictionary>
+           </instance>
+           <string role="key" value="extensiontype_"></string>
+           <none></none>
+           <string role="key" value="uniqueElementName"></string>
+           <none></none>
+           <string role="key" value="valueOf_"></string>
+           <none></none>
+          </dictionary>
+         </instance>
+         <string role="key" value="entity"></string>
+         <list>
+          <instance class="exe.engine.lom.lomsubs.entitySub" reference="38">
+           <dictionary>
+            <string role="key" value="extensiontype_"></string>
+            <none></none>
+            <string role="key" value="valueOf_"></string>
+            <string value="BEGIN:VCARD VERSION:3.0 FN:David Roibal EMAIL;TYPE=INTERNET: ORG: END:VCARD"></string>
+           </dictionary>
+          </instance>
+         </list>
+         <string role="key" value="role"></string>
+         <instance class="exe.engine.lom.lomsubs.roleSub">
+          <dictionary>
+           <string role="key" value="extensiontype_"></string>
+           <none></none>
+           <string role="key" value="source"></string>
+           <instance class="exe.engine.lom.lomsubs.sourceValueSub" reference="39">
+            <dictionary>
+             <string role="key" value="extensiontype_"></string>
+             <none></none>
+             <string role="key" value="string"></string>
+             <list></list>
+             <string role="key" value="uniqueElementName"></string>
+             <string value="source"></string>
+             <string role="key" value="valueOf_"></string>
+             <string value="LOM-ESv1.0"></string>
+            </dictionary>
+           </instance>
+           <string role="key" value="uniqueElementName"></string>
+           <string value="role"></string>
+           <string role="key" value="value"></string>
+           <instance class="exe.engine.lom.lomsubs.roleValueSub">
+            <dictionary>
+             <string role="key" value="extensiontype_"></string>
+             <none></none>
+             <string role="key" value="source"></string>
+             <none></none>
+             <string role="key" value="uniqueElementName"></string>
+             <string value="value"></string>
+             <string role="key" value="value"></string>
+             <none></none>
+             <string role="key" value="valueOf_"></string>
+             <string value="author"></string>
+            </dictionary>
+           </instance>
+          </dictionary>
+         </instance>
+        </dictionary>
+       </instance>
+      </list>
+      <string role="key" value="status"></string>
+      <none></none>
+      <string role="key" value="uniqueElementName"></string>
+      <none></none>
+      <string role="key" value="version"></string>
+      <none></none>
+     </dictionary>
+    </instance>
+    <string role="key" value="metaMetadata"></string>
+    <instance class="exe.engine.lom.lomsubs.metaMetadataSub">
+     <dictionary>
+      <string role="key" value="contribute"></string>
+      <list>
+       <instance class="exe.engine.lom.lomsubs.contributeMetaSub">
+        <dictionary>
+         <string role="key" value="date"></string>
+         <reference key="37"></reference>
+         <string role="key" value="entity"></string>
+         <list>
+          <reference key="38"></reference>
+         </list>
+         <string role="key" value="role"></string>
+         <instance class="exe.engine.lom.lomsubs.roleSub">
+          <dictionary>
+           <string role="key" value="extensiontype_"></string>
+           <none></none>
+           <string role="key" value="source"></string>
+           <reference key="39"></reference>
+           <string role="key" value="uniqueElementName"></string>
+           <string value="role"></string>
+           <string role="key" value="value"></string>
+           <instance class="exe.engine.lom.lomsubs.roleValueSub">
+            <dictionary>
+             <string role="key" value="extensiontype_"></string>
+             <none></none>
+             <string role="key" value="source"></string>
+             <none></none>
+             <string role="key" value="uniqueElementName"></string>
+             <string value="value"></string>
+             <string role="key" value="value"></string>
+             <none></none>
+             <string role="key" value="valueOf_"></string>
+             <string value="creator"></string>
+            </dictionary>
+           </instance>
+          </dictionary>
+         </instance>
+        </dictionary>
+       </instance>
+      </list>
+      <string role="key" value="identifier"></string>
+      <list></list>
+      <string role="key" value="language"></string>
+      <instance class="exe.engine.lom.lomsubs.LanguageIdSub">
+       <dictionary>
+        <string role="key" value="extensiontype_"></string>
+        <none></none>
+        <string role="key" value="valueOf_"></string>
+        <string value="es"></string>
+       </dictionary>
+      </instance>
+      <string role="key" value="metadataSchema"></string>
+      <list>
+       <instance class="exe.engine.lom.lomsubs.metadataSchemaSub">
+        <dictionary>
+         <string role="key" value="valueOf_"></string>
+         <string value="LOM-ESv1.0"></string>
+        </dictionary>
+       </instance>
+      </list>
+      <string role="key" value="uniqueElementName"></string>
+      <string value="metaMetadata"></string>
+     </dictionary>
+    </instance>
+    <string role="key" value="relation"></string>
+    <list></list>
+    <string role="key" value="rights"></string>
+    <instance class="exe.engine.lom.lomsubs.rightsSub">
+     <dictionary>
+      <string role="key" value="access"></string>
+      <instance class="exe.engine.lom.lomsubs.accessSub">
+       <dictionary>
+        <string role="key" value="accessType"></string>
+        <instance class="exe.engine.lom.lomsubs.accessTypeSub">
+         <dictionary>
+          <string role="key" value="extensiontype_"></string>
+          <none></none>
+          <string role="key" value="source"></string>
+          <instance class="exe.engine.lom.lomsubs.sourceValueSub">
+           <dictionary>
+            <string role="key" value="extensiontype_"></string>
+            <none></none>
+            <string role="key" value="string"></string>
+            <list></list>
+            <string role="key" value="uniqueElementName"></string>
+            <string value="source"></string>
+            <string role="key" value="valueOf_"></string>
+            <string value="LOM-ESv1.0"></string>
+           </dictionary>
+          </instance>
+          <string role="key" value="uniqueElementName"></string>
+          <string value="accessType"></string>
+          <string role="key" value="value"></string>
+          <instance class="exe.engine.lom.lomsubs.accessTypeValueSub">
+           <dictionary>
+            <string role="key" value="extensiontype_"></string>
+            <none></none>
+            <string role="key" value="source"></string>
+            <none></none>
+            <string role="key" value="uniqueElementName"></string>
+            <string value="value"></string>
+            <string role="key" value="value"></string>
+            <none></none>
+            <string role="key" value="valueOf_"></string>
+            <string value="universal"></string>
+           </dictionary>
+          </instance>
+         </dictionary>
+        </instance>
+        <string role="key" value="description"></string>
+        <instance class="exe.engine.lom.lomsubs.LanguageStringSub">
+         <dictionary>
+          <string role="key" value="extensiontype_"></string>
+          <none></none>
+          <string role="key" value="string"></string>
+          <list>
+           <instance class="exe.engine.lom.lomsubs.LangStringSub">
+            <dictionary>
+             <string role="key" value="language"></string>
+             <string value="en"></string>
+             <string role="key" value="valueOf_"></string>
+             <unicode value="Default"></unicode>
+            </dictionary>
+           </instance>
+          </list>
+         </dictionary>
+        </instance>
+        <string role="key" value="uniqueElementName"></string>
+        <string value="access"></string>
+       </dictionary>
+      </instance>
+      <string role="key" value="copyrightAndOtherRestrictions"></string>
+      <instance class="exe.engine.lom.lomsubs.copyrightAndOtherRestrictionsSub">
+       <dictionary>
+        <string role="key" value="extensiontype_"></string>
+        <none></none>
+        <string role="key" value="source"></string>
+        <instance class="exe.engine.lom.lomsubs.sourceValueSub">
+         <dictionary>
+          <string role="key" value="extensiontype_"></string>
+          <none></none>
+          <string role="key" value="string"></string>
+          <list></list>
+          <string role="key" value="uniqueElementName"></string>
+          <string value="source"></string>
+          <string role="key" value="valueOf_"></string>
+          <string value="LOM-ESv1.0"></string>
+         </dictionary>
+        </instance>
+        <string role="key" value="uniqueElementName"></string>
+        <string value="copyrightAndOtherRestrictions"></string>
+        <string role="key" value="value"></string>
+        <instance class="exe.engine.lom.lomsubs.copyrightAndOtherRestrictionsValueSub">
+         <dictionary>
+          <string role="key" value="extensiontype_"></string>
+          <none></none>
+          <string role="key" value="source"></string>
+          <none></none>
+          <string role="key" value="uniqueElementName"></string>
+          <string value="value"></string>
+          <string role="key" value="value"></string>
+          <none></none>
+          <string role="key" value="valueOf_"></string>
+          <string value="creative commons: attribution - share alike"></string>
+         </dictionary>
+        </instance>
+       </dictionary>
+      </instance>
+      <string role="key" value="cost"></string>
+      <none></none>
+      <string role="key" value="description"></string>
+      <none></none>
+      <string role="key" value="uniqueElementName"></string>
+      <string value="rights"></string>
+     </dictionary>
+    </instance>
+    <string role="key" value="technical"></string>
+    <none></none>
+   </dictionary>
+  </instance>
+  <string role="key" value="mxmlforcemediaonly"></string>
+  <bool value="0"></bool>
+  <string role="key" value="mxmlheight"></string>
+  <string value=""></string>
+  <string role="key" value="mxmlprofilelist"></string>
+  <string value=""></string>
+  <string role="key" value="mxmlwidth"></string>
+  <string value=""></string>
+  <string role="key" value="release"></string>
+  <string value="2.5"></string>
+  <string role="key" value="resources"></string>
+  <dictionary>
+   <string role="key" value="7ba036c43b73fda9a3600a380d10c43b"></string>
+   <list>
+    <reference key="23"></reference>
+   </list>
+   <string role="key" value="e9c6603ae2b609e5f5fd138a6df20ae7"></string>
+   <list>
+    <reference key="19"></reference>
+   </list>
+   <string role="key" value="efa3335ff4eaa3fd9210f720576d4ecd"></string>
+   <list>
+    <reference key="6"></reference>
+   </list>
+  </dictionary>
+  <string role="key" value="root"></string>
+  <reference key="2"></reference>
+  <string role="key" value="scolinks"></string>
+  <bool value="0"></bool>
+  <string role="key" value="scowsinglepage"></string>
+  <bool value="0"></bool>
+  <string role="key" value="scowwebsite"></string>
+  <bool value="0"></bool>
+  <string role="key" value="style"></string>
+  <unicode value="INTEF"></unicode>
+  <string role="key" value="sugaractivityname"></string>
+  <string value=""></string>
+  <string role="key" value="sugarservicename"></string>
+  <string value=""></string>
+  <string role="key" value="tempFile"></string>
+  <bool value="0"></bool>
+ </dictionary>
+</instance>
